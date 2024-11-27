@@ -47,7 +47,7 @@ featured: False
 # - name: Custom Link
 #   url: https://aclanthology.org/2023.acl-long.354/
 
-url_pdf: content/publication/chen2023salas/ecmlpkdd2023.pdf
+url_pdf: publications/ecmlpkdd2023.pdf
 url_code: 'https://github.com/Hytn/AspectSum'
 # url_dataset: 'https://github.com/Hytn/DocRED-HWE'
 # url_poster: ''

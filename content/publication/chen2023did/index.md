@@ -46,7 +46,7 @@ featured: False
 # - name: Custom Link
 #   url: https://aclanthology.org/2023.acl-long.354/
 
-url_pdf: 'https://aclanthology.org/2023.acl-long.354.pdf'
+url_pdf: publications/acl2023.pdf
 url_code: 'https://github.com/Hytn/DocRED-HWE'
 url_dataset: 'https://github.com/Hytn/DocRED-HWE'
 # url_poster: ''
