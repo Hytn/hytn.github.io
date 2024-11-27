@@ -28,7 +28,7 @@ featured: False
 # - name: Custom Link
 #   url: https://aclanthology.org/2023.acl-long.354/
 
-url_pdf: publications/aaai2024.pdf
+url_pdf: pubs/aaai2024.pdf
 url_code: 'https://github.com/Carrot-Red/Rethink-LLM-development'
 # url_dataset: 'https://github.com/Hytn/DocRED-HWE'
 # url_poster: ''

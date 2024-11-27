@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: publications/RD2Bench.pdf
+url_pdf: pubs/RD2Bench.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
