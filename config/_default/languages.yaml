@@ -2,21 +2,36 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
-# Default language
 en:
-  locale: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  languageCode: en-us
+  languageName: English
+  weight: 1
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  locale: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+zh:
+  languageCode: zh-Hans
+  languageName: 中文
+  contentDir: content/zh
+  weight: 2
+  title: 陈颢天
+  params:
+    description: 陈颢天个人主页
+  menu:
+    main:
+      - name: 首页
+        url: /zh/
+        weight: 10
+      - name: 经历
+        url: /zh/#experience
+        weight: 11
+      - name: 论文
+        url: /zh/#papers
+        weight: 12
+      - name: 项目
+        url: /zh/#projects
+        weight: 13
+      - name: 服务
+        url: /zh/#service
+        weight: 14
+      - name: 联系
+        url: /zh/#contact
+        weight: 20
