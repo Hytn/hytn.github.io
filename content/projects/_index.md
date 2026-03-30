@@ -9,8 +9,9 @@ design:
 sections:
   - block: collection
     content:
-      title: Open-Source Projects
-      text: All my open-source contributions revolve around the central theme of LLM-powered agents, forming a cohesive ecosystem spanning data, algorithms, execution, evaluation, and applications.
+      title: 💻 Open-Source Projects
+      text: |-
+        All contributions revolve around the central theme of **LLM-powered agents**, forming a cohesive ecosystem: **Data** → **Algorithm** → **Execution** → **Evaluation** → **Application**.
       filters:
         folders:
           - projects

@@ -14,7 +14,7 @@ summary: 'ArXiv 2025. Team contribution (led MCP agent capabilities). 8,300+ Git
 tags:
   - Foundation Models
   - Tool Learning
-featured: false
+featured: true
 links:
   - type: pdf
     url: https://arxiv.org/abs/2506.07900

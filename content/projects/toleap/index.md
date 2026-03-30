@@ -1,7 +1,10 @@
 ---
 title: "ToLeaP"
 date: 2026-01-01
-summary: "**Project Lead.** Unified evaluation platform for tool-learning agents. Reproduces 50+ benchmarks, 33 training datasets, 64 metrics across 43 LLMs."
+summary: |
+  📏 **Project Lead** · One-click evaluation platform for tool-learning agents
+
+  [![Stars](https://img.shields.io/github/stars/thunlp/ToLeaP?style=social)](https://github.com/thunlp/ToLeaP) · `50+ Benchmarks` · `33 Datasets`
 tags:
   - Benchmark
   - Tool Learning
@@ -10,6 +13,14 @@ links:
     url: https://github.com/thunlp/ToLeaP
 ---
 
-A comprehensive **one-click evaluation platform** for tool-learning agents. Reproduces **50+ evaluation benchmarks**, collects **33 training datasets**, and provides **64 evaluation metrics** across **43 LLMs** for both single-tool and multi-tool calling scenarios. Analyzes challenges and opportunities in current agent tool-calling capabilities.
+📏 **Role: Project Lead**
+
+A comprehensive one-click evaluation platform for tool-learning agents.
+
+**Key Features:**
+- 📊 Reproduces 50+ tool-learning evaluation benchmarks
+- 📦 Collects 33 related training datasets
+- 🔍 64 evaluation metrics across 43 LLMs
+- ⚡ One-click evaluation for unified comparison
 
 <!--more-->
