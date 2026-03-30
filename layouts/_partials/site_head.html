@@ -1,0 +1,39 @@
+{{/* Minimal local override to bypass HugoBlox deferred-template panics in module site_head. */}}
+{{- $siteTitle := site.Params.hugoblox.identity.name | default site.Title | default "Site" -}}
+{{- $pageTitle := .Title | default $siteTitle -}}
+{{- $isHome := .IsHome -}}
+{{- $title := cond $isHome $siteTitle (printf "%s | %s" $pageTitle $siteTitle) -}}
+{{- $desc := .Description | default .Summary | default site.Params.hugoblox.identity.description | plainify | htmlUnescape | chomp -}}
+{{- $canon := .Permalink | default site.BaseURL -}}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo {{ hugo.Version }}">
+<title>{{ $title }}</title>
+{{- with $desc }}
+<meta name="description" content="{{ . }}">
+{{- end }}
+<link rel="canonical" href="{{ $canon }}">
+{{- with site.Params.hugoblox.identity.social.twitter }}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@{{ . }}">
+{{- end }}
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ $title }}">
+{{- with $desc }}<meta property="og:description" content="{{ . }}">{{- end }}
+<meta property="og:url" content="{{ $canon }}">
+{{- with .Params.images }}
+  {{- $img := index . 0 -}}
+  {{- with $img }}<meta property="og:image" content="{{ . | absURL }}">{{- end }}
+{{- end }}
+{{- range .AllTranslations }}
+<link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
+{{- end }}
+{{- with site.Home.OutputFormats.Get "RSS" }}
+<link rel="alternate" type="{{ .MediaType.Type }}" href="{{ .RelPermalink }}" title="{{ $siteTitle }}">
+{{- end }}
+{{ partial "css" . }}
+{{- partial "hooks/head-end/github-button" . | default "" -}}
+{{- with resources.Get "js/mathjax-config.js" }}
+  {{- /* no-op: avoid missing-resource issues while preserving compatibility */ -}}
+{{- end -}}

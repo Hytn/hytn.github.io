@@ -24,7 +24,7 @@ hugoblox:
     description: "Haotian Chen - AI Researcher specializing in Autonomous Agents, Large Language Models, and AI4Research. Assistant Researcher at Shanghai Jiao Tong University."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "HytnChen"              # Twitter/X handle for Twitter Cards (without @)
+      twitter: ""              # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME

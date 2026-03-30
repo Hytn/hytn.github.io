@@ -103,14 +103,22 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-hugo-deps-
 
+    # Cache Hugo resources (processed images, CSS) - invalidates only when assets/config change
+    - uses: actions/cache@v4
+      with:
+        path: resources/
+        key: ${{ runner.os }}-hugo-resources-${{ hashFiles('assets/**/*', 'config/**/*',
+          'hugo.yaml', 'package.json') }}
+        restore-keys: |
+          ${{ runner.os }}-hugo-resources-
+
     - name: Build with Hugo
       env:
         HUGO_ENVIRONMENT: production
         HUGO_BLOX_LICENSE: ${{ secrets.HUGO_BLOX_LICENSE }}
-        HUGO_NUMWORKERMULTIPLIER: 1
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-        hugo --gc
+        hugo --minify
 
     - name: Generate Pagefind search index (if applicable)
       run: |
