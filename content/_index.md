@@ -73,15 +73,17 @@ sections:
     design:
       view: article-grid
       columns: 3
-  - block: contact
+  - block: markdown
     id: contact
     content:
-      title: Contact
-      subtitle:
+      title: 'Contact'
+      subtitle: ''
       text: |-
         Please feel free to contact me if you have any questions or collaboration ideas.
-      email: htchen@tsinghua.edu.cn
-      autolink: true
+
+        **Email:** [htchen@tsinghua.edu.cn](mailto:htchen@tsinghua.edu.cn)
+
+        **GitHub:** [github.com/Hytn](https://github.com/Hytn)
     design:
-      columns: '2'
+      columns: '1'
 ---
