@@ -9,121 +9,74 @@ name:
   pronunciation: ''
   pronouns: 他
 postnominals:
-- 博士
+  - 博士
 status:
-  icon: 🤖
+  icon: "🤖"
 role: 助理研究员
-bio: 陈颢天现任上海交通大学人工智能学院助理研究员，在 RethinkLab 与严骏驰教授合作开展研究。其研究目标是理解并发展能够自动完成长期、复杂且需要创造性思考任务的人工智能系统，重点关注自主智能体、大语言模型与
-  AI4Research。他于复旦大学获得数据科学博士学位，并在清华大学自然语言处理与社会人文计算实验室（THUNLP）开展博士后研究，与刘知远教授和孙茂松教授合作。曾在微软亚洲研究院担任科研实习生，参与研发的
-  RD-Agent 登上微软 Build 2025 全球 Keynote。
+bio: |
+  陈颢天现任上海交通大学人工智能学院助理研究员，在 [RethinkLab](https://thinklab.sjtu.edu.cn/index.html) 与 [严骏驰](https://thinklab.sjtu.edu.cn/index.html) 教授合作开展研究。他的研究目标是理解并发展能够自动完成长期、复杂且需要创造性思考任务的人工智能系统，重点关注自主智能体、大语言模型与 AI4Research。他于复旦大学获得数据科学博士学位，并在清华大学 [THUNLP](https://nlp.csai.tsinghua.edu.cn/) 开展博士后研究，与 [刘知远](https://nlp.csai.tsinghua.edu.cn/~lzy/) 教授和 [孙茂松](https://nlp.csai.tsinghua.edu.cn/staff/sms/) 教授合作。曾在微软亚洲研究院担任科研实习生，参与研发的 RD-Agent 登上微软 Build 2025 全球 Keynote。
+
 affiliations:
-- name: 上海交通大学
-  url: https://www.sjtu.edu.cn/
+  - name: 上海交通大学
+    url: https://www.sjtu.edu.cn/
+
 links:
-- icon: at-symbol
-  url: mailto:htchen@tsinghua.edu.cn
-  label: 发送邮件
-- icon: brands/github
-  url: https://github.com/Hytn
-- icon: academicons/google-scholar
-  url: https://scholar.google.com/citations?user=nwU3FhUAAAAJ&hl=zh-CN
+  - icon: at-symbol
+    url: mailto:htchen@tsinghua.edu.cn
+    label: 发送邮件
+  - icon: brands/github
+    url: https://github.com/Hytn
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=nwU3FhUAAAAJ&hl=zh-CN
+
 interests:
-- 自主智能体
-- 大语言模型
-- AI4Research
-- 智能体强化学习
-- 工具学习
+  - 自主智能体
+  - 大语言模型
+  - AI4Research
+  - 智能体强化学习
+  - 工具学习
+
 education:
-- degree: 数据科学博士
-  institution: 复旦大学
-  icon: brands/logo-fudan
-  start: '2018-09-01'
-  end: '2024-06-30'
-  summary: 计算机科学技术学院。导师：周向东教授。研究方向：自然语言处理、数据挖掘与信息抽取。荣誉：复旦大学优秀学生、复旦大学优秀毕业生、学业优秀奖学金。
-- degree: 工学学士（电气工程）
-  institution: 大连理工大学
-  icon: brands/dut
-  start: '2014-09-01'
-  end: '2018-06-30'
-  summary: 导师：岳前进教授、贺明峰教授。研究方向：水下机器人与图像识别。专业排名第 1/74，辽宁省优秀毕业生。
+  - degree: 数据科学博士
+    institution: 复旦大学
+    icon: brands/fudan
+    start: 2018-09-01
+    end: 2024-06-30
+    summary: |
+      计算机科学技术学院。导师：周向东教授。研究方向：自然语言处理、数据挖掘与信息抽取。荣誉：复旦大学优秀学生、复旦大学优秀毕业生、学业优秀奖学金。
+  - degree: 工学学士（电气工程）
+    institution: 大连理工大学
+    icon: brands/dut
+    start: 2014-09-01
+    end: 2018-06-30
+    summary: |
+      电气工程学院。导师：岳前进教授、贺明峰教授。专业排名第 1/74，辽宁省优秀毕业生。
+
 experience:
-- role: 助理研究员
-  org: 上海交通大学
-  icon: brands/logo-sjtu
-  start: '2026-04-01'
-  summary: 人工智能学院，[RethinkLab](https://thinklab.sjtu.edu.cn/index.html)。导师：[严骏驰教授](https://thinklab.sjtu.edu.cn/index.html)。研究方向：自主智能体、大语言模型与
-    AI4Research。
-- role: 博士后研究员
-  org: 清华大学
-  icon: brands/logo-tsinghua
-  start: '2024-07-01'
-  end: '2026-03-31'
-  summary: 计算机系，[THUNLP](https://nlp.csai.tsinghua.edu.cn/)。合作导师：[刘知远教授](https://nlp.csai.tsinghua.edu.cn/~lzy/)、[孙茂松教授](https://nlp.csai.tsinghua.edu.cn/staff/sms/)。研究方向：自主智能体、大语言模型与智能体工具强化学习。荣誉：清华大学“水木学者”计划。
-- role: 科研实习生
-  org: 微软亚洲研究院
-  icon: brands/logo-microsoft
-  start: '2023-11-01'
-  end: '2024-06-30'
-  summary: 机器学习组。导师：杨骁、边江。研究方向：自主智能体与大语言模型。荣誉：微软“明日之星”。参与研发的 RD-Agent 登上微软 Build 2025
-    全球 Keynote。
-- role: 科研实习生
-  org: 清华大学（交叉信息研究院）
-  icon: brands/logo-tsinghua
-  start: '2021-06-01'
-  end: '2023-04-30'
-  summary: 清华大学交叉信息研究院。导师：于洋教授。研究方向：大语言模型安全性审计与 AI 决策依据分析。
-skills:
-- name: 研究
-  items:
-  - label: 大语言模型
-    level: 5
-  - label: 自主智能体
-    level: 5
-  - label: 强化学习
-    level: 5
-- name: 工程
-  items:
-  - label: Python / PyTorch
-    level: 5
-  - label: 分布式训练
-    level: 4
-  - label: 系统架构
-    level: 4
-languages:
-- name: 中文
-  level: 5
-  label: 母语
-- name: 英文
-  level: 4
-  label: 流利
-awards:
-- title: 国家资助博士后研究人员计划（C 档，主持）
-  awarder: 人力资源和社会保障部
-  date: '2025-01-01'
-  summary: 面向跨领域任务的大模型智能体工具学习方法研究。经费：24 万元。
-  icon: hero/banknotes
-- title: 中国博士后科学基金面上资助（主持）
-  awarder: 中国博士后科学基金会
-  date: '2024-11-01'
-  summary: 项目号 2024M761689。面向复杂问题求解的大模型智能体知识增强工具学习研究。经费：8 万元。
-  icon: hero/banknotes
-- title: 清华大学“水木学者”计划
-  awarder: 清华大学
-  date: '2024-07-01'
-  summary: 清华大学博士后重点支持计划。
-  icon: hero/academic-cap
-- title: 微软“明日之星”
-  awarder: 微软亚洲研究院
-  date: '2024-01-01'
-  summary: 作为 RD-Agent 核心贡献者，相关工作登上微软 Build 2025 全球 Keynote。
-  icon: hero/star
-- title: 复旦大学优秀学生与优秀毕业生
-  awarder: 复旦大学
-  date: '2024-06-01'
-  summary: 博士阶段多次获得校级荣誉与学业优秀奖学金。
-  icon: hero/trophy
-- title: 辽宁省优秀毕业生，专业排名 1/74
-  awarder: 大连理工大学 / 辽宁省
-  date: '2018-06-01'
-  summary: 本科毕业时获省级优秀毕业生等荣誉。
-  icon: hero/trophy
+  - role: 助理研究员
+    org: 上海交通大学
+    icon: brands/sjtu
+    start: 2026-04-01
+    summary: |
+      人工智能学院，[RethinkLab](https://thinklab.sjtu.edu.cn/index.html)。导师：[严骏驰](https://thinklab.sjtu.edu.cn/index.html) 教授。研究方向：自主智能体、大语言模型与 AI4Research。
+  - role: 博士后研究员
+    org: 清华大学
+    icon: brands/tsinghua
+    start: 2024-07-01
+    end: 2026-03-31
+    summary: |
+      计算机科学与技术系，[THUNLP](https://nlp.csai.tsinghua.edu.cn/)。合作导师：[刘知远](https://nlp.csai.tsinghua.edu.cn/~lzy/) 教授、[孙茂松](https://nlp.csai.tsinghua.edu.cn/staff/sms/) 教授。研究方向：自主智能体、大语言模型与智能体工具强化学习。荣誉：清华大学“水木学者”计划。
+  - role: 科研实习生
+    org: 微软亚洲研究院
+    icon: brands/microsoft
+    start: 2023-11-01
+    end: 2024-06-30
+    summary: |
+      Machine Learning Group。合作导师：Xiao Yang、Jiang Bian。研究方向：自主智能体与大语言模型。荣誉：微软“明日之星”。核心参与 RD-Agent，并登上 Microsoft Build 2025 全球 Keynote。
+  - role: 科研实习生
+    org: 清华大学（交叉信息研究院）
+    icon: brands/tsinghua
+    start: 2021-06-01
+    end: 2023-04-30
+    summary: |
+      交叉信息研究院。导师：杨钰教授。研究方向：LLM 安全审计与 AI 决策偏差分析。

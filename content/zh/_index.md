@@ -14,8 +14,8 @@ sections:
       text: ''
       headings:
         about: ''
-        education: '教育背景'
-        interests: '研究兴趣'
+        education: ''
+        interests: ''
     design:
       background:
         gradient_mesh:

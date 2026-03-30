@@ -1,27 +1,26 @@
 ---
-title: ToLeaP
+title: "ToLeaP"
 date: 2026-01-01
-summary: '📏 **项目负责人** · 面向工具学习智能体的一键式统一评测平台
+summary: |
+  📏 **Project Lead** · One-click evaluation platform for tool-learning agents
 
-
-  [![Stars](https://img.shields.io/github/stars/thunlp/ToLeaP?style=social)](https://github.com/thunlp/ToLeaP)
-  · `50+ 基准` · `33 个数据集`'
+  [![Stars](https://img.shields.io/github/stars/thunlp/ToLeaP?style=social)](https://github.com/thunlp/ToLeaP) · `50+ Benchmarks` · `33 Datasets`
 tags:
-- Benchmark
-- Tool Learning
+  - Benchmark
+  - Tool Learning
 links:
-- type: site
-  url: https://github.com/thunlp/ToLeaP
+  - type: site
+    url: https://github.com/thunlp/ToLeaP
 ---
 
-📏 **承担角色：项目负责人**
+📏 **Role: Project Lead**
 
-构建面向工具学习智能体的综合性一键式评测平台。
+A comprehensive one-click evaluation platform for tool-learning agents.
 
-**核心特性：**
-- 📊 复现 50+ 个工具学习评测基准
-- 📦 收集 33 个相关训练数据集
-- 🔍 覆盖 43 个大语言模型与 64 个评测指标
-- ⚡ 支持统一比较的一键式评测
+**Key Features:**
+- 📊 Reproduces 50+ tool-learning evaluation benchmarks
+- 📦 Collects 33 related training datasets
+- 🔍 64 evaluation metrics across 43 LLMs
+- ⚡ One-click evaluation for unified comparison
 
 <!--more-->
