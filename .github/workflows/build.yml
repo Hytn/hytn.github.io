@@ -116,9 +116,10 @@ jobs:
       env:
         HUGO_ENVIRONMENT: production
         HUGO_BLOX_LICENSE: ${{ secrets.HUGO_BLOX_LICENSE }}
+        HUGO_NUMWORKERMULTIPLIER: 1
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-        hugo --minify --workers 1
+        hugo --minify
 
     - name: Generate Pagefind search index (if applicable)
       run: |
