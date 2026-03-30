@@ -1,0 +1,124 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Haotian Chen
+  given: Haotian
+  family: Chen
+  alternate: ''
+  pronunciation: ''
+  pronouns: he/him
+postnominals:
+  - PhD
+status:
+  icon: "🤖"
+role: Assistant Researcher
+bio: |
+  Haotian Chen is an Assistant Researcher at the School of Artificial Intelligence, Shanghai Jiao Tong University, working with Prof. Junchi Yan and Prof. Weinan E at RethinkLab. His research goal is to understand and develop AI for automating tasks that require extensive time, effort, and creative thinking. He works on automating data-driven scientific research, contributing to both alleviating the burden on humans and revolutionizing human productivity. His research focuses on Autonomous Agents, Large Language Models, and AI4Research. He received his PhD in Data Science from Fudan University and completed postdoctoral research at Tsinghua University (THUNLP). He was also a research intern at Microsoft Research Asia, where the RD-Agent project he co-developed was featured in the Microsoft Build 2025 Global Keynote.
+
+affiliations:
+  - name: Shanghai Jiao Tong University
+    url: https://www.sjtu.edu.cn/
+
+links:
+  - icon: at-symbol
+    url: mailto:htchen@tsinghua.edu.cn
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/Hytn
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=HAOTIAN_CHEN
+
+interests:
+  - Autonomous Agents
+  - Large Language Models
+  - AI4Research
+  - Agent Reinforcement Learning
+  - Tool Learning
+
+education:
+  - degree: PhD in Data Science
+    institution: Fudan University
+    start: 2018-09-01
+    end: 2024-06-30
+    summary: |
+      School of Computer Science and Technology. Advisor: Prof. Xiangdong Zhou. Research on NLP, data mining and information extraction. Honors: Outstanding Student, Outstanding Graduate, Academic Excellence Scholarship.
+  - degree: BEng in Ocean Technology
+    institution: Dalian University of Technology
+    start: 2014-09-01
+    end: 2018-06-30
+    summary: |
+      School of Ocean Science and Technology. Advisors: Prof. Qianjin Yue, Prof. Mingfeng He. Research on underwater robotics and image recognition. Ranked 1/74 in the program. Provincial Outstanding Graduate.
+
+experience:
+  - role: Assistant Researcher
+    org: Shanghai Jiao Tong University
+    start: 2026-04-01
+    summary: |
+      School of Artificial Intelligence, RethinkLab. Advisors: Prof. Junchi Yan, Prof. Weinan E. Research on Autonomous Agents, LLMs, and AI4Research.
+  - role: Postdoctoral Researcher
+    org: Tsinghua University
+    start: 2024-07-01
+    end: 2026-03-31
+    summary: |
+      Department of Computer Science and Technology, THUNLP Lab. Advisors: Prof. Zhiyuan Liu, Prof. Maosong Sun. Research on Autonomous Agents, LLMs, and Agent Tool Reinforcement Learning. Honors: Tsinghua "Shuimu Scholar" Program.
+  - role: Research Intern
+    org: Microsoft Research Asia
+    start: 2023-11-01
+    end: 2024-06-30
+    summary: |
+      Machine Learning Group. Advisors: Xiao Yang, Jiang Bian. Research on Autonomous Agents and LLMs. Honors: Microsoft "Star of Tomorrow". Core contributor to RD-Agent, featured in Microsoft Build 2025 Global Keynote.
+  - role: Research Intern
+    org: Tsinghua University (IIIS)
+    start: 2021-06-01
+    end: 2023-04-30
+    summary: |
+      Institute for Interdisciplinary Information Sciences. Advisor: Prof. Yang Yu. Research on LLM safety auditing and AI decision bias analysis.
+
+skills:
+  - name: Research
+    items:
+      - label: Large Language Models
+        level: 5
+      - label: Autonomous Agents
+        level: 5
+      - label: Reinforcement Learning
+        level: 5
+  - name: Engineering
+    items:
+      - label: Python / PyTorch
+        level: 5
+      - label: Distributed Training
+        level: 4
+      - label: System Architecture
+        level: 4
+
+languages:
+  - name: Chinese
+    level: 5
+    label: Native
+  - name: English
+    level: 4
+    label: Fluent
+
+awards:
+  - title: Tsinghua "Shuimu Scholar" Program
+    awarder: Tsinghua University
+    date: "2024-07-01"
+    summary: Prestigious postdoctoral fellowship at Tsinghua University.
+    icon: hero/academic-cap
+  - title: Microsoft "Star of Tomorrow"
+    awarder: Microsoft Research Asia
+    date: "2024-01-01"
+    summary: Awarded during research internship at MSRA. Core contributor to RD-Agent featured in Microsoft Build 2025 Keynote.
+    icon: hero/star
+  - title: Provincial Outstanding Graduate
+    awarder: Liaoning Province
+    date: "2018-06-01"
+    summary: Graduated ranked 1st out of 74 students in the program at Dalian University of Technology.
+    icon: hero/trophy
+  - title: Outstanding Student & Graduate
+    awarder: Fudan University
+    date: "2024-06-01"
+    summary: Awarded for outstanding academic performance and research during PhD studies.
+    icon: hero/trophy
