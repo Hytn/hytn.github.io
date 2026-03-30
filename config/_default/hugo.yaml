@@ -21,12 +21,6 @@ removePathAccents: true
 ## PAGE OPTIONS
 ############################
 
-cascade:
-  - target:
-      path: /slides/**
-      kind: page
-    outputs: [HTML, present]
-
 ############################
 ## ADVANCED
 ############################
@@ -43,7 +37,7 @@ footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 disableAliases: true
 outputs:
-  home: [HTML, RSS, backlinks]
+  home: [HTML, RSS]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
