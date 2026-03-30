@@ -39,14 +39,14 @@ interests:
 education:
   - degree: PhD in Data Science
     institution: Fudan University
-    logo: brands/fudan
+    icon: brands/fudan
     start: 2018-09-01
     end: 2024-06-30
     summary: |
       School of Computer Science and Technology. Advisor: Prof. Xiangdong Zhou. Research on NLP, data mining and information extraction. Honors: Outstanding Student, Outstanding Graduate, Academic Excellence Scholarship.
   - degree: BEng in Ocean Technology
     institution: Dalian University of Technology
-    logo: brands/dut
+    icon: brands/dut
     start: 2014-09-01
     end: 2018-06-30
     summary: |
@@ -55,27 +55,27 @@ education:
 experience:
   - role: Assistant Researcher
     org: Shanghai Jiao Tong University
-    logo: brands/sjtu
+    icon: brands/sjtu
     start: 2026-04-01
     summary: |
       School of Artificial Intelligence, RethinkLab. Advisors: Prof. Junchi Yan, Prof. Weinan E. Research on Autonomous Agents, LLMs, and AI4Research.
   - role: Postdoctoral Researcher
     org: Tsinghua University
-    logo: brands/tsinghua
+    icon: brands/tsinghua
     start: 2024-07-01
     end: 2026-03-31
     summary: |
       Department of Computer Science and Technology, THUNLP Lab. Advisors: Prof. Zhiyuan Liu, Prof. Maosong Sun. Research on Autonomous Agents, LLMs, and Agent Tool Reinforcement Learning. Honors: Tsinghua "Shuimu Scholar" Program.
   - role: Research Intern
     org: Microsoft Research Asia
-    logo: brands/microsoft
+    icon: brands/microsoft
     start: 2023-11-01
     end: 2024-06-30
     summary: |
       Machine Learning Group. Advisors: Xiao Yang, Jiang Bian. Research on Autonomous Agents and LLMs. Honors: Microsoft "Star of Tomorrow". Core contributor to RD-Agent, featured in Microsoft Build 2025 Global Keynote.
   - role: Research Intern
     org: Tsinghua University (IIIS)
-    logo: brands/tsinghua
+    icon: brands/tsinghua
     start: 2021-06-01
     end: 2023-04-30
     summary: |
