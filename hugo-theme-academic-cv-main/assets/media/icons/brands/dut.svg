@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="48" fill="none" stroke="#003366" stroke-width="3"/>
+  <circle cx="50" cy="50" r="38" fill="none" stroke="#003366" stroke-width="1.5"/>
+  <text x="50" y="42" text-anchor="middle" font-family="serif" font-weight="bold" font-size="12" fill="#003366">DUT</text>
+  <text x="50" y="56" text-anchor="middle" font-family="serif" font-size="6.5" fill="#003366">大连理工大学</text>
+  <text x="50" y="66" text-anchor="middle" font-family="serif" font-size="5.5" fill="#003366">EST. 1949</text>
+</svg>

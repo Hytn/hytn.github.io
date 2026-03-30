@@ -1,26 +1,27 @@
 ---
-title: "XAgent"
+title: XAgent
 date: 2023-10-01
-summary: |
-  🤖 **Project Refactoring Lead** · Autonomous agent based on LLMs, outperforming AutoGPT
+summary: '🤖 **项目重构负责人** · 基于大语言模型的自主智能体，性能显著优于 AutoGPT
 
-  [![Stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social)](https://github.com/OpenBMB/XAgent) · `GitHub Trending #1`
+
+  [![Stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social)](https://github.com/OpenBMB/XAgent)
+  · `GitHub Trending #1`'
 tags:
-  - Autonomous Agents
-  - Large Language Models
+- Autonomous Agents
+- Large Language Models
 links:
-  - type: site
-    url: https://github.com/OpenBMB/XAgent
+- type: site
+  url: https://github.com/OpenBMB/XAgent
 ---
 
-🤖 **Role: Project Refactoring Lead**
+🤖 **承担角色：项目重构负责人**
 
-Refactored XAgent based on AgentCPM-MCP for stable tool-environment RL training, pushing the boundaries of agent capabilities.
+基于 AgentCPM-MCP 重构 XAgent，使其能够在稳定的工具环境中进行强化学习训练，持续突破智能体能力边界。
 
-**Impact:**
-- 🏆 Topped GitHub Trending multiple times
-- 🔀 890+ forks
-- 🐦 13,000+ Twitter views, 26,000+ YouTube views
-- 📖 73,000+ WeChat article views
+**影响力：**
+- 🏆 多次登顶 GitHub Trending
+- 🔀 GitHub Fork 890+
+- 🐦 Twitter 阅读量 13,000+，YouTube 播放量 26,000+
+- 📖 微信相关文章阅读量 73,000+
 
 <!--more-->

@@ -13,7 +13,9 @@ postnominals:
 status:
   icon: 🤖
 role: 助理研究员
-bio: 陈颢天现任上海交通大学人工智能学院助理研究员，在 RethinkLab 与严骏驰教授合作开展研究。其研究目标是理解并发展能够自动完成长期、复杂且需要创造性思考任务的人工智能系统，重点关注自主智能体、大语言模型与 AI4Research。他于复旦大学获得数据科学博士学位，并在清华大学 THUNLP 开展博士后研究，与刘知远教授和孙茂松教授合作。曾在微软亚洲研究院担任科研实习生，参与研发的 RD-Agent 登上微软 Build 2025 全球 Keynote。
+bio: 陈颢天现任上海交通大学人工智能学院助理研究员，在 RethinkLab 与严骏驰教授合作开展研究。其研究目标是理解并发展能够自动完成长期、复杂且需要创造性思考任务的人工智能系统，重点关注自主智能体、大语言模型与
+  AI4Research。他于复旦大学获得数据科学博士学位，并在清华大学自然语言处理与社会人文计算实验室（THUNLP）开展博士后研究，与刘知远教授和孙茂松教授合作。曾在微软亚洲研究院担任科研实习生，参与研发的
+  RD-Agent 登上微软 Build 2025 全球 Keynote。
 affiliations:
 - name: 上海交通大学
   url: https://www.sjtu.edu.cn/
@@ -38,7 +40,7 @@ education:
   start: '2018-09-01'
   end: '2024-06-30'
   summary: 计算机科学技术学院。导师：周向东教授。研究方向：自然语言处理、数据挖掘与信息抽取。荣誉：复旦大学优秀学生、复旦大学优秀毕业生、学业优秀奖学金。
-- degree: 电气工程工学学士
+- degree: 工学学士（电气工程）
   institution: 大连理工大学
   icon: brands/dut
   start: '2014-09-01'
@@ -49,7 +51,8 @@ experience:
   org: 上海交通大学
   icon: brands/logo-sjtu
   start: '2026-04-01'
-  summary: 人工智能学院，[RethinkLab](https://thinklab.sjtu.edu.cn/index.html)。导师：[严骏驰教授](https://thinklab.sjtu.edu.cn/index.html)。研究方向：自主智能体、大语言模型与 AI4Research。
+  summary: 人工智能学院，[RethinkLab](https://thinklab.sjtu.edu.cn/index.html)。导师：[严骏驰教授](https://thinklab.sjtu.edu.cn/index.html)。研究方向：自主智能体、大语言模型与
+    AI4Research。
 - role: 博士后研究员
   org: 清华大学
   icon: brands/logo-tsinghua
@@ -61,7 +64,8 @@ experience:
   icon: brands/logo-microsoft
   start: '2023-11-01'
   end: '2024-06-30'
-  summary: 机器学习组。导师：杨骁、边江。研究方向：自主智能体与大语言模型。荣誉：微软“明日之星”。参与研发的 RD-Agent 登上微软 Build 2025 全球 Keynote。
+  summary: 机器学习组。导师：杨骁、边江。研究方向：自主智能体与大语言模型。荣誉：微软“明日之星”。参与研发的 RD-Agent 登上微软 Build 2025
+    全球 Keynote。
 - role: 科研实习生
   org: 清华大学（交叉信息研究院）
   icon: brands/logo-tsinghua

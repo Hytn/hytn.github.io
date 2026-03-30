@@ -1,25 +1,26 @@
 ---
-title: "AgentCPM-GUI"
+title: AgentCPM-GUI
 date: 2025-08-01
-summary: |
-  📱 **Training Data Lead** · Multimodal LLM-based GUI agent for mobile & desktop
+summary: '📱 **训练数据负责人** · 面向移动端与桌面端的多模态 GUI 智能体
 
-  [![Stars](https://img.shields.io/github/stars/OpenBMB/AgentCPM-GUI?style=social)](https://github.com/OpenBMB/AgentCPM-GUI) · `Trending on HuggingFace`
+
+  [![Stars](https://img.shields.io/github/stars/OpenBMB/AgentCPM-GUI?style=social)](https://github.com/OpenBMB/AgentCPM-GUI)
+  · `Hugging Face 趋势项目`'
 tags:
-  - GUI Agents
-  - Multimodal
+- GUI Agents
+- Multimodal
 links:
-  - type: site
-    url: https://github.com/OpenBMB/AgentCPM-GUI
+- type: site
+  url: https://github.com/OpenBMB/AgentCPM-GUI
 ---
 
-📱 **Role: GUI Agent Training Data Construction Lead**
+📱 **承担角色：GUI 智能体训练数据构造负责人**
 
-Multimodal LLM-based GUI agent with visual interface perception, task understanding, and reasoning & planning for autonomous control of mobile and desktop platforms.
+构建基于多模态大语言模型的 GUI 智能体，使其具备视觉界面感知、任务理解以及推理与规划能力，从而能够自主控制手机与桌面平台。
 
-**Impact:**
-- 📦 3,000+ first-month downloads, trending on Hugging Face
-- 🐦 150,000+ Twitter views, 1,300+ YouTube views
-- 📖 7,000+ WeChat article views
+**影响力：**
+- 📦 首月下载量 3,000+，登上 Hugging Face 趋势榜
+- 🐦 Twitter 阅读量 150,000+，YouTube 播放量 1,300+
+- 📖 微信相关文章阅读量 7,000+
 
 <!--more-->

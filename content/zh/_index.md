@@ -8,41 +8,23 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: markdown
+  - block: resume-biography-3
     content:
-      title: '陈颢天'
-      subtitle: '上海交通大学人工智能学院助理研究员'
-      text: |-
-        ![](/media/authors/me.jpg)
-
-        陈颢天现任**上海交通大学人工智能学院助理研究员**，在 [RethinkLab](https://thinklab.sjtu.edu.cn/index.html) 与 [严骏驰](https://thinklab.sjtu.edu.cn/index.html) 教授合作开展研究。
-
-        他的研究目标是理解并发展能够自动完成长期、复杂、需要大量时间投入甚至创造性思考任务的人工智能系统，重点关注**自主智能体**、**大语言模型**与 **AI4Research**。
-
-        他于**复旦大学**获得数据科学博士学位，并在**清华大学 THUNLP** 开展博士后研究，与 [刘知远](https://nlp.csai.tsinghua.edu.cn/~lzy/) 教授和 [孙茂松](https://nlp.csai.tsinghua.edu.cn/staff/sms/) 教授合作。他也曾在**微软亚洲研究院**担任科研实习生，参与研发的 RD-Agent 登上微软 Build 2025 全球 Keynote。
-
-        **邮箱：** [htchen@tsinghua.edu.cn](mailto:htchen@tsinghua.edu.cn)  
-        **GitHub：** [github.com/Hytn](https://github.com/Hytn)  
-        **Google Scholar：** [scholar profile](https://scholar.google.com/citations?user=nwU3FhUAAAAJ&hl=zh-CN)
+      username: me_zh
+      text: ''
+      headings:
+        about: ''
+        education: '教育背景'
+        interests: '研究兴趣'
     design:
-      columns: '1'
-  - block: markdown
-    content:
-      title: '🎯 研究兴趣'
-      subtitle: ''
-      text: |-
-        - 自主智能体
-        - 大语言模型
-        - AI4Research
-        - 智能体强化学习
-        - 工具学习
-
-        **教育背景**
-
-        - **复旦大学**，数据科学博士（2018.09 – 2024.06）
-        - **大连理工大学**，电气工程工学学士（2014.09 – 2018.06）
-    design:
-      columns: '1'
+      background:
+        gradient_mesh:
+          enable: false
+      name:
+        size: md
+      avatar:
+        size: medium
+        shape: circle
   - block: resume-experience
     id: experience
     content:
@@ -125,6 +107,8 @@ sections:
         ✉️ **邮箱：** [htchen@tsinghua.edu.cn](mailto:htchen@tsinghua.edu.cn)
 
         🐙 **GitHub：** [github.com/Hytn](https://github.com/Hytn)
+
+        🎓 **Google Scholar：** [scholar profile](https://scholar.google.com/citations?user=nwU3FhUAAAAJ&hl=zh-CN)
     design:
       columns: '1'
 ---

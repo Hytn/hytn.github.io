@@ -1,25 +1,25 @@
 ---
-title: "AgentCPM-Explore"
+title: AgentCPM-Explore
 date: 2026-02-01
-summary: |
-  🏆 **Project Lead** · Open-source 4B agent model achieving SOTA on GAIA & HLE benchmarks
+summary: '🏆 **项目负责人** · 开源 4B 智能体模型，在 GAIA 与 HLE 基准上达到同规模最优
 
-  [![Stars](https://img.shields.io/github/stars/OpenBMB/AgentCPM?style=social)](https://github.com/OpenBMB/AgentCPM)
+
+  [![Stars](https://img.shields.io/github/stars/OpenBMB/AgentCPM?style=social)](https://github.com/OpenBMB/AgentCPM)'
 tags:
-  - Autonomous Agents
-  - Reinforcement Learning
+- Autonomous Agents
+- Reinforcement Learning
 links:
-  - type: site
-    url: https://github.com/OpenBMB/AgentCPM
+- type: site
+  url: https://github.com/OpenBMB/AgentCPM
 ---
 
-🏆 **Role: Project Lead**
+🏆 **承担角色：项目负责人**
 
-Developed a unified tool sandbox environment management framework with end-to-end agent reinforcement learning. The agent leverages past experience memory for task decision-making and adapts strategies based on dynamic environment feedback.
+研发统一的工具沙箱环境管理框架，并实现端到端的智能体强化学习训练。该智能体能够利用历史经验记忆进行任务决策，并根据动态环境反馈持续调整策略。
 
-**Key Results:**
-- ✅ SOTA among same-scale (4B) models on GAIA & HLE benchmarks
-- ✅ Surpasses GPT-5 and Claude-4.5-Sonnet (closed-source models)
-- ✅ End-to-end agent RL with unified sandbox environment
+**关键结果：**
+- ✅ 在 GAIA 与 HLE 上达到同规模（4B）模型最优
+- ✅ 超过 GPT-5 与 Claude-4.5-Sonnet 等闭源模型
+- ✅ 实现统一沙箱环境下的端到端智能体强化学习
 
 <!--more-->

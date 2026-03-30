@@ -1,0 +1,32 @@
+/* Enlarge institution icons and the surrounding circles in the experience timeline */
+section[id="experience"] [class*="rounded-full"],
+.page-wrapper section[id="experience"] [class*="rounded-full"] {
+  width: 4.25rem !important;
+  height: 4.25rem !important;
+  min-width: 4.25rem !important;
+  min-height: 4.25rem !important;
+  padding: 0.2rem !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+section[id="experience"] [class*="rounded-full"] svg,
+section[id="experience"] [class*="rounded-full"] img,
+section[id="experience"] [class*="rounded-full"] picture,
+.page-wrapper section[id="experience"] [class*="rounded-full"] svg,
+.page-wrapper section[id="experience"] [class*="rounded-full"] img,
+.page-wrapper section[id="experience"] [class*="rounded-full"] picture {
+  width: 3.35rem !important;
+  height: 3.35rem !important;
+  max-width: none !important;
+  max-height: none !important;
+  object-fit: contain !important;
+  overflow: visible !important;
+}
+
+section[id="experience"] .timeline-item-icon,
+.page-wrapper section[id="experience"] .timeline-item-icon {
+  width: 4.25rem !important;
+  height: 4.25rem !important;
+}
