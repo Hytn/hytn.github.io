@@ -14,7 +14,7 @@ summary: '**CCF-A**. Benchmarking language understanding models for document-lev
 tags:
   - Relation Extraction
   - NLP
-featured: false
+featured: true
 hugoblox:
   ids:
     doi: 10.18653/v1/2023.acl-long.354

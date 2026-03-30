@@ -27,7 +27,7 @@ summary: 'EMNLP 2025 Demo. GUI agents with reinforcement fine-tuning. 1,200+ Git
 tags:
   - GUI Agents
   - Reinforcement Learning
-featured: true
+featured: false
 links:
   - type: pdf
     url: https://arxiv.org/abs/2506.01391
