@@ -107,6 +107,8 @@ sections:
         ✉️ **Email:** [htchen@tsinghua.edu.cn](mailto:htchen@tsinghua.edu.cn)
 
         🐙 **GitHub:** [github.com/Hytn](https://github.com/Hytn)
+
+        🎓 **Google Scholar:** [scholar profile](https://scholar.google.com/citations?user=nwU3FhUAAAAJ&hl=en)
     design:
       columns: '1'
 ---

@@ -2,9 +2,9 @@
 title: "RD-Agent"
 date: 2024-06-01
 summary: |
-  🔬 **Core Founding Member & Primary Coder** · Automated R&D agent for data science & finance
+  🔬 **核心创始成员 & 主要开发者** · 面向数据科学与金融的自动化研发智能体
 
-  [![Stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)](https://github.com/microsoft/RD-Agent) · `Microsoft Build 2025 Keynote` · `#1 on MLEBench`
+  [![Stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)](https://github.com/microsoft/RD-Agent) · `Microsoft Build 2025 Keynote` · `MLEBench #1`
 tags:
   - AI4Research
   - Autonomous Agents
@@ -13,14 +13,14 @@ links:
     url: https://github.com/microsoft/RD-Agent
 ---
 
-🔬 **Role: Core Founding Member & Primary Coder** (two first-author papers)
+🔬 **角色：核心创始成员 & 主要开发者**（两篇第一作者论文）
 
-Automates the R&D pipeline — from idea generation to experiment verification to result analysis — for data-centric AI in data science and finance scenarios.
+面向数据科学和金融场景，自动化研发流程——从想法生成、实验验证到结果分析——的数据驱动 AI 研发智能体。
 
-**Key Highlights:**
-- 🌟 12,100+ GitHub Stars
-- 🎤 Featured in **Microsoft Build 2025 Global Keynote**
-- 🥇 **#1 on MLEBench** (OpenAI's Kaggle agent benchmark) at release
-- 📄 Two first-author papers as primary coder since project launch
+**核心亮点：**
+- 🌟 GitHub Star 12,100+
+- 🎤 登上 **Microsoft Build 2025 全球 Keynote**
+- 🥇 发布时在 **MLEBench**（OpenAI 的 Kaggle 智能体基准）上排名第一
+- 📄 作为主要开发者自项目启动以来发表两篇第一作者论文
 
 <!--more-->

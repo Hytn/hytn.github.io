@@ -2,9 +2,9 @@
 title: "AgentRL"
 date: 2026-01-01
 summary: |
-  🏆 **Project Lead** · Fully asynchronous agent RL training infrastructure for the AgentCPM model family
+  🏆 **项目负责人** · 面向 AgentCPM 模型族的全异步智能体强化学习训练基础设施
 
-  `100+ Tools` · `20+ Benchmarks` · `Full-cycle Visualization`
+  `100+ 工具` · `20+ 基准` · `全流程可视化`
 tags:
   - Reinforcement Learning
   - Infrastructure
@@ -13,15 +13,15 @@ links:
     url: https://github.com/OpenBMB/AgentCPM
 ---
 
-🏆 **Role: Project Lead**
+🏆 **角色：项目负责人**
 
-A fully asynchronous training infrastructure for large-scale agent reinforcement learning supporting the AgentCPM model family.
+面向 AgentCPM 模型族的大规模智能体强化学习全异步训练基础设施。
 
-**Key Features:**
-- 🔧 100+ hot-pluggable tools with unified sandbox management
-- 📊 20+ benchmark one-click evaluation platform
-- 🖥️ Full-cycle visualization and interactive platform
-- ⚡ Database-centric architecture decoupling inference from training
-- 🚀 Significantly outperforms Verl in GPU utilization and training speed
+**核心特性：**
+- 🔧 100+ 热插拔工具，统一沙箱管理
+- 📊 20+ 基准的一键评测平台
+- 🖥️ 全流程可视化与交互平台
+- ⚡ 数据库中心化架构，解耦推理与训练
+- 🚀 GPU 利用率和训练速度显著优于 Verl
 
 <!--more-->

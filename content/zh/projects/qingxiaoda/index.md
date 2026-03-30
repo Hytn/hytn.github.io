@@ -2,9 +2,9 @@
 title: "QingXiaoDa"
 date: 2025-06-01
 summary: |
-  🎓 **Core Member** · Tsinghua University AI student growth assistant
+  🎓 **核心成员** · 清华大学 AI 学生成长助手
 
-  `3,000+ Users` · `58,000+ Queries` · `104 Expert Agents`
+  `3,000+ 用户` · `58,000+ 查询` · `104 个专家智能体`
 tags:
   - Application
   - Autonomous Agents
@@ -13,15 +13,15 @@ links:
     url: https://www.tsinghua.edu.cn/
 ---
 
-🎓 **Role: Core Member** (AgentCPM-MCP Application Validation)
+🎓 **角色：核心成员**（AgentCPM-MCP 应用验证）
 
-Built an AI student growth assistant powered by LLM agents with knowledge-enhanced generation for Tsinghua University.
+基于大语言模型智能体与知识增强生成技术，为清华大学打造的 AI 学生成长助手。
 
-**Key Metrics:**
-- 👥 3,000+ registered users, 58,000+ queries
-- 📚 10,000+ knowledge base documents, 4,000+ official pages
-- 🤖 104 expert agents (math, AI tutoring, mental health companion, etc.)
-- 🏅 Featured by Tsinghua President at 2024 World MOOC Conference
-- 📰 Reported twice by Ministry of Education media
+**核心数据：**
+- 👥 注册用户 3,000+，累计查询 58,000+
+- 📚 知识库文档 10,000+，官方页面 4,000+
+- 🤖 104 个专家智能体（数学、AI 辅导、心理健康陪伴等）
+- 🏅 清华大学校长在 2024 世界慕课大会上作专题展示
+- 📰 教育部媒体两次报道
 
 <!--more-->

@@ -2,7 +2,7 @@
 title: "ToolLLM"
 date: 2023-08-01
 summary: |
-  🔧 **Project Refactoring Lead** · Tool learning framework connecting to 16,000+ real-world APIs
+  🔧 **项目重构负责人** · 连接 16,000+ 真实 API 的工具学习框架
 
   [![Stars](https://img.shields.io/github/stars/OpenBMB/ToolBench?style=social)](https://github.com/OpenBMB/ToolBench)
 tags:
@@ -13,13 +13,13 @@ links:
     url: https://github.com/OpenBMB/ToolBench
 ---
 
-🔧 **Role: Project Refactoring Lead**
+🔧 **角色：项目重构负责人**
 
-Refactored the entire pipeline based on AgentCPM-MCP, providing a stable and reproducible tool-learning agent training and evaluation methodology.
+基于 AgentCPM-MCP 对整个流程进行重构，提供稳定且可复现的工具学习智能体训练与评测方法。
 
-**About:**
-- 🌐 Connects open-source models to 16,000+ real-world APIs
-- 🎯 Achieves ChatGPT-level tool use performance
-- 🔀 440+ forks
+**项目介绍：**
+- 🌐 将开源模型连接至 16,000+ 真实 API
+- 🎯 工具使用性能达到 ChatGPT 水平
+- 🔀 Fork 数 440+
 
 <!--more-->

@@ -80,3 +80,61 @@ experience:
     end: 2023-04-30
     summary: |
       交叉信息研究院。导师：杨钰教授。研究方向：LLM 安全审计与 AI 决策偏差分析。
+
+skills:
+  - name: 研究
+    items:
+      - label: 大语言模型
+        level: 5
+      - label: 自主智能体
+        level: 5
+      - label: 强化学习
+        level: 5
+  - name: 工程
+    items:
+      - label: Python / PyTorch
+        level: 5
+      - label: 分布式训练
+        level: 4
+      - label: 系统架构
+        level: 4
+
+languages:
+  - name: 中文
+    level: 5
+    label: 母语
+  - name: 英文
+    level: 4
+    label: 流利
+
+awards:
+  - title: 国家资助博士后研究人员计划 C 档（主持）
+    awarder: 人力资源和社会保障部
+    date: "2025-01-01"
+    summary: "面向跨领域任务的大模型智能体工具学习方法研究。资助金额：24 万元。"
+    icon: hero/banknotes
+  - title: 中国博士后科学基金面上资助（主持）
+    awarder: 中国博士后科学基金会
+    date: "2024-11-01"
+    summary: "批准号 2024M761689。面向大模型智能体复杂问题求解的知识增强工具学习研究。资助金额：8 万元。"
+    icon: hero/banknotes
+  - title: 清华大学"水木学者"计划
+    awarder: 清华大学
+    date: "2024-07-01"
+    summary: 清华大学博士后研究人才支持计划。
+    icon: hero/academic-cap
+  - title: 微软"明日之星"
+    awarder: 微软亚洲研究院
+    date: "2024-01-01"
+    summary: 核心参与 RD-Agent，并登上 Microsoft Build 2025 全球 Keynote。
+    icon: hero/star
+  - title: 优秀学生 & 优秀毕业生
+    awarder: 复旦大学
+    date: "2024-06-01"
+    summary: 博士期间多次获得学业优秀奖学金等荣誉（2019-2024）。
+    icon: hero/trophy
+  - title: 辽宁省优秀毕业生，专业排名第 1/74
+    awarder: 大连理工大学 / 辽宁省
+    date: "2018-06-01"
+    summary: 本科专业排名第 1（共 74 人）。辽宁省优秀毕业生、凌水一等奖学金、数学竞赛获奖。
+    icon: hero/trophy
