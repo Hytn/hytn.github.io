@@ -1,17 +1,15 @@
 ---
 title: "ToLeaP"
 date: 2026-01-01
-summary: "One-click evaluation platform for tool-learning agents. Rethinking the development of tool learning with LLMs."
+summary: "**Project Lead.** Unified evaluation platform for tool-learning agents. Reproduces 50+ benchmarks, 33 training datasets, 64 metrics across 43 LLMs."
 tags:
   - Benchmark
   - Tool Learning
 links:
   - type: site
-    url: ''
+    url: https://github.com/thunlp/ToLeaP
 ---
 
-**Role: Project Lead**
-
-A comprehensive one-click evaluation platform for tool-learning agents, covering 20+ benchmarks with unified evaluation protocols.
+A comprehensive **one-click evaluation platform** for tool-learning agents. Reproduces **50+ evaluation benchmarks**, collects **33 training datasets**, and provides **64 evaluation metrics** across **43 LLMs** for both single-tool and multi-tool calling scenarios. Analyzes challenges and opportunities in current agent tool-calling capabilities.
 
 <!--more-->

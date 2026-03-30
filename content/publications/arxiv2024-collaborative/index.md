@@ -20,13 +20,15 @@ publishDate: '2024-07-01T00:00:00Z'
 publication_types: ['article']
 publication: '*ArXiv Preprint 2024*'
 publication_short: '*ArXiv 2024*'
-abstract: ''
-summary: 'ArXiv 2024. Co-first author. Collaborative evolving strategy for data-centric development. ⭐ 11,400+ GitHub Stars.'
+abstract: 'We propose knowledge-augmented collaborative evolving strategies for automatic data-centric development, advancing the RD-Agent framework.'
+summary: 'ArXiv 2024. Co-first author. Collaborative evolving strategy for data-centric development. 11,400+ GitHub Stars.'
 tags:
   - AI4Research
   - Autonomous Agents
 featured: false
 links:
+  - type: pdf
+    url: https://arxiv.org/abs/2407.18690
   - type: code
     url: https://github.com/microsoft/RD-Agent
 ---

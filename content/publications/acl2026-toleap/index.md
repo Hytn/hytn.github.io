@@ -23,13 +23,15 @@ publishDate: '2026-01-01T00:00:00Z'
 publication_types: ['article']
 publication: '*Submitted to ACL 2026*'
 publication_short: '*ACL 2026 (submitted)*'
-abstract: ''
-summary: 'Submitted to ACL 2026. First author. Rethinking tool learning development with LLMs.'
+abstract: 'We reproduce 50+ tool-learning evaluation benchmarks, collect 33 training datasets, and build a unified one-click evaluation platform for tool-learning agents.'
+summary: 'Submitted to ACL 2026. First author. Unified evaluation platform for tool-learning agents.'
 tags:
   - Tool Learning
   - Benchmark
 featured: false
 links:
+  - type: pdf
+    url: https://arxiv.org/abs/2505.11833
   - type: code
-    url: ''
+    url: https://github.com/thunlp/ToLeaP
 ---

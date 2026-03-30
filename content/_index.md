@@ -12,9 +12,6 @@ sections:
     content:
       username: me
       text: ''
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
       headings:
         about: ''
         education: ''
@@ -22,7 +19,7 @@ sections:
     design:
       background:
         gradient_mesh:
-          enable: true
+          enable: false
       name:
         size: md
       avatar:
@@ -73,6 +70,23 @@ sections:
     design:
       view: article-grid
       columns: 3
+  - block: markdown
+    id: service
+    content:
+      title: 'Academic Service'
+      subtitle: ''
+      text: |-
+        **Student Supervision** — Co-supervising 7 undergraduates and 6 PhD students on LLM agents, and 5 master students on data mining.
+
+        **Conference Reviewer** — NeurIPS, ICLR, EMNLP, KDD, WWW, COLING, etc.
+
+        **Journal Reviewer** — TKDE, Science China, AI Open, etc.
+
+        **Invited Talks** — "Autonomous Agents and Tool Learning with LLMs" (RLChina 2025); "LLM-Driven Autonomous Agents" (Huawei OpenHarmony AI Agent TSG Meeting).
+
+        **Research Grants (PI)** — China Postdoctoral Science Foundation General Grant (No. 2024M761689, ¥80K); National Postdoctoral Researcher Program Category C (¥240K).
+    design:
+      columns: '1'
   - block: markdown
     id: contact
     content:

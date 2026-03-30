@@ -13,13 +13,13 @@ sections:
     design:
       date_format: 'January 2006'
       is_education_first: false
-  - block: resume-skills
-    content:
-      title: Skills
-      username: me
   - block: resume-awards
     content:
       title: Awards & Honors
+      username: me
+  - block: resume-skills
+    content:
+      title: Skills
       username: me
   - block: resume-languages
     content:

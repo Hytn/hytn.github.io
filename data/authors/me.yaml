@@ -102,6 +102,16 @@ languages:
     label: Fluent
 
 awards:
+  - title: National Postdoctoral Researcher Program (C-tier)
+    awarder: China Postdoctoral Science Foundation
+    date: "2024-07-01"
+    summary: "PI. Funded project: Tool Learning Methods for Cross-Domain LLM Agents (240K CNY)."
+    icon: hero/banknotes
+  - title: China Postdoctoral Science Foundation General Grant (No. 2024M761689)
+    awarder: China Postdoctoral Science Foundation
+    date: "2024-11-01"
+    summary: "PI. Funded project: Knowledge-Augmented Tool Learning for Complex Problem Solving with LLM Agents (80K CNY)."
+    icon: hero/banknotes
   - title: Tsinghua "Shuimu Scholar" Program
     awarder: Tsinghua University
     date: "2024-07-01"
@@ -110,15 +120,25 @@ awards:
   - title: Microsoft "Star of Tomorrow"
     awarder: Microsoft Research Asia
     date: "2024-01-01"
-    summary: Awarded during research internship at MSRA. Core contributor to RD-Agent featured in Microsoft Build 2025 Keynote.
+    summary: Core contributor to RD-Agent featured in Microsoft Build 2025 Keynote.
     icon: hero/star
-  - title: Provincial Outstanding Graduate
-    awarder: Liaoning Province
-    date: "2018-06-01"
-    summary: Graduated ranked 1st out of 74 students in the program at Dalian University of Technology.
-    icon: hero/trophy
-  - title: Outstanding Student & Graduate
+  - title: Outstanding Graduate
     awarder: Fudan University
     date: "2024-06-01"
-    summary: Awarded for outstanding academic performance and research during PhD studies.
+    summary: Outstanding Student & Outstanding Graduate awards during PhD.
     icon: hero/trophy
+  - title: Provincial Outstanding Graduate, Ranked 1/74
+    awarder: Dalian University of Technology / Liaoning Province
+    date: "2018-06-01"
+    summary: Graduated ranked 1st out of 74 students. Provincial Outstanding Graduate, Lingshui First-Class Scholarship, Math Competition Award.
+    icon: hero/trophy
+  - title: China Postdoctoral Science Foundation General Grant (PI)
+    awarder: China Postdoctoral Science Foundation
+    date: "2024-11-01"
+    summary: "Grant No. 2024M761689. Research on domain-specific complex problem solving with LLM agents via knowledge and tool learning. Budget: ¥80K."
+    icon: hero/banknotes
+  - title: National Postdoctoral Researcher Program Category C (PI)
+    awarder: Ministry of Human Resources and Social Security
+    date: "2024-07-01"
+    summary: "Research on tool learning methods for LLM agents in cross-domain tasks. Budget: ¥240K."
+    icon: hero/banknotes

@@ -11,7 +11,7 @@ authors:
   - Xin Cong
   - me
   - Yankai Lin
-  - others
+  - et al.
   - Zhiyuan Liu
   - Maosong Sun
 author_notes:
@@ -22,13 +22,15 @@ publishDate: '2025-09-01T00:00:00Z'
 publication_types: ['paper-conference']
 publication: In *EMNLP 2025 Demo*
 publication_short: In *EMNLP 2025 Demo*
-abstract: ''
-summary: 'EMNLP 2025 Demo. Building mobile-use GUI agents with reinforcement fine-tuning. ⭐ 1,200+ GitHub Stars.'
+abstract: 'We build a multimodal LLM-based GUI agent with visual interface perception, task understanding, and reasoning & planning for autonomous control of mobile and desktop platforms.'
+summary: 'EMNLP 2025 Demo. GUI agents with reinforcement fine-tuning. 1,200+ GitHub Stars.'
 tags:
   - GUI Agents
   - Reinforcement Learning
 featured: false
 links:
+  - type: pdf
+    url: https://arxiv.org/abs/2506.01391
   - type: code
-    url: ''
+    url: https://github.com/OpenBMB/AgentCPM-GUI
 ---
