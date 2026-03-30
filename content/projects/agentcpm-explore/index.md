@@ -1,8 +1,8 @@
 ---
 title: "AgentCPM-Explore"
-date: 2026-02-01
+date: 2026-03-20
 summary: |
-  🏆 **Project Lead** · Open-source 4B agent model achieving SOTA on GAIA & HLE benchmarks
+  🏆 **Project Lead** · I led an open-source 4B agent model for long-horizon deep exploration
 
   [![Stars](https://img.shields.io/github/stars/OpenBMB/AgentCPM?style=social)](https://github.com/OpenBMB/AgentCPM)
 tags:
@@ -13,13 +13,13 @@ links:
     url: https://github.com/OpenBMB/AgentCPM
 ---
 
-🏆 **Role: Project Lead**
+🏆 **My role: Project Lead**
 
-Developed a unified tool sandbox environment management framework with end-to-end agent reinforcement learning. The agent leverages past experience memory for task decision-making and adapts strategies based on dynamic environment feedback.
+I led the development of AgentCPM-Explore, a 4B open-source agent focused on long-horizon deep exploration. I also helped build the surrounding stack, including the tool sandbox, training pipeline, and evaluation workflow.
 
-**Key Results:**
-- ✅ SOTA among same-scale (4B) models on GAIA & HLE benchmarks
-- ✅ Surpasses GPT-5 and Claude-4.5-Sonnet (closed-source models)
-- ✅ End-to-end agent RL with unified sandbox environment
+**Key highlights:**
+- ✅ First 4B open-source agent model to appear on eight classic long-horizon benchmarks
+- ✅ Supports 100+ turns of continuous interaction with dynamic strategy adjustment
+- ✅ End-to-end open source across model, training, inference, and tool sandbox infrastructure
 
 <!--more-->

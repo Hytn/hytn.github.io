@@ -5,7 +5,7 @@ date: 2024-10-24
 type: landing
 
 design:
-  spacing: '6rem'
+  spacing: '3rem'
 
 sections:
   - block: resume-biography-3
@@ -37,13 +37,13 @@ sections:
       title: '🔬 Research'
       subtitle: ''
       text: |-
-        My research goal is to understand and develop AI for automating the tasks (e.g., engineering, research, development) that require extensive time, effort, and sometimes even the creative thinking of humans. I work on automating data-driven scientific research for contributing to both alleviating the burden on humans and revolutionizing human productivity. My research revolves around three interconnected directions:
+        I study how to build AI systems that can automate long-horizon work in research, engineering, and development. A central goal of my work is to make data-driven scientific research more scalable, reliable, and productive. I currently focus on three closely connected directions:
 
-        🧪 **AI4Research** — Building AI-powered research assistants capable of literature retrieval, experiment design, data analysis, and hypothesis generation & verification.
+        🧪 **AI4Research** — I build AI research assistants for literature retrieval, experiment design, data analysis, and hypothesis generation and verification.
 
-        🤖 **Autonomous Agents** — Developing agent models and systems with environment perception, long/short-term memory, task decomposition & planning, and tool-use capabilities, driven by LLMs as the intelligent core.
+        🤖 **Autonomous Agents** — I develop agent models and systems with environment perception, memory, planning, and tool-use capabilities, with LLMs as the core intelligence.
 
-        🧠 **Foundation Models** — Pre-training general-purpose AI models with language understanding & generation, knowledge representation, multimodal information fusion, and downstream task adaptation.
+        🧠 **Foundation Models** — I explore how to train and adapt general-purpose models for language understanding, knowledge representation, multimodal fusion, and downstream generalization.
     design:
       columns: '1'
   - block: collection
@@ -85,15 +85,15 @@ sections:
       title: '🎓 Academic Service'
       subtitle: ''
       text: |-
-        🧑‍🏫 **Student Supervision** — Co-supervising 7 undergraduates and 6 PhD students on LLM agents, and 5 master students on data mining.
+        🧑‍🏫 **Student Supervision** — I co-supervise undergraduate, master's, and PhD students on LLM agents and data mining.
 
-        📝 **Conference Reviewer** — NeurIPS, ICLR, EMNLP, KDD, WWW, COLING, etc.
+        📝 **Conference Reviewing** — I regularly review for venues including NeurIPS, ICLR, EMNLP, KDD, WWW, and COLING.
 
-        📰 **Journal Reviewer** — TKDE, Science China, AI Open, etc.
+        📰 **Journal Reviewing** — I have also reviewed for journals such as TKDE, Science China, and AI Open.
 
-        🎤 **Invited Talks** — "Autonomous Agents and Tool Learning with LLMs" (RLChina 2025); "LLM-Driven Autonomous Agents" (Huawei OpenHarmony AI Agent TSG).
+        🎤 **Invited Talks** — Recent invited talks include *Autonomous Agents and Tool Learning with LLMs* (RLChina 2025) and *LLM-Driven Autonomous Agents* (Huawei OpenHarmony AI Agent TSG).
 
-        💰 **Research Grants (PI)** — China Postdoctoral Science Foundation General Grant (No. 2024M761689, 80K CNY); National Postdoctoral Researcher Program Category C (240K CNY).
+        💰 **Research Grants** — I currently serve as PI for the China Postdoctoral Science Foundation General Grant and the National Postdoctoral Researcher Program Category C.
     design:
       columns: '1'
   - block: markdown
@@ -102,11 +102,13 @@ sections:
       title: '📬 Contact'
       subtitle: ''
       text: |-
-        Feel free to reach out for questions or collaboration ideas!
+        Feel free to reach out if you would like to discuss research ideas, collaborations, or open-source projects.
 
         ✉️ **Email:** [htchen@tsinghua.edu.cn](mailto:htchen@tsinghua.edu.cn)
 
         🐙 **GitHub:** [github.com/Hytn](https://github.com/Hytn)
+
+        ✖️ **X:** [@HytnChen](https://x.com/HytnChen)
 
         🎓 **Google Scholar:** [scholar profile](https://scholar.google.com/citations?user=nwU3FhUAAAAJ&hl=en)
     design:

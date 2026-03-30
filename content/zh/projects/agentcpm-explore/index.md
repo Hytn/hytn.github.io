@@ -1,8 +1,8 @@
 ---
 title: "AgentCPM-Explore"
-date: 2026-02-01
+date: 2026-03-20
 summary: |
-  🏆 **项目负责人** · 开源 4B 智能体模型，在 GAIA 和 HLE 基准上达到 SOTA
+  🏆 **项目负责人** · 我主导了一个面向长程深度探索的开源 4B 智能体模型
 
   [![Stars](https://img.shields.io/github/stars/OpenBMB/AgentCPM?style=social)](https://github.com/OpenBMB/AgentCPM)
 tags:
@@ -13,13 +13,13 @@ links:
     url: https://github.com/OpenBMB/AgentCPM
 ---
 
-🏆 **角色：项目负责人**
+🏆 **我的角色：项目负责人**
 
-开发了统一的工具沙箱环境管理框架，支持端到端的智能体强化学习。智能体通过历史经验记忆辅助任务决策，并根据动态环境反馈自适应调整策略。
+我主导了 AgentCPM-Explore 的研发。它是一个面向长程深度探索的 4B 开源智能体，我也参与构建了配套的工具沙箱、训练流程与评测工作流。
 
-**核心成果：**
-- ✅ 在 GAIA 和 HLE 基准上达到同规模（4B）模型 SOTA
-- ✅ 超越 GPT-5 和 Claude-4.5-Sonnet（闭源模型）
-- ✅ 统一沙箱环境下的端到端智能体强化学习
+**核心亮点：**
+- ✅ 首个登上八个经典长程基准的 4B 开源智能体模型
+- ✅ 支持 100+ 轮连续交互，并可动态调整策略
+- ✅ 从模型、训练、推理到工具沙箱基础设施全部端到端开源
 
 <!--more-->

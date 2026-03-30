@@ -1,10 +1,10 @@
 ---
 title: "RD-Agent"
-date: 2024-06-01
+date: 2026-03-30
 summary: |
-  🔬 **Core Founding Member & Primary Coder** · Automated R&D agent for data science & finance
+  🔬 **Core Founding Member & Primary Coder** · I helped build an automated R&D agent for data science and finance
 
-  [![Stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)](https://github.com/microsoft/RD-Agent) · `Microsoft Build 2025 Keynote` · `#1 on MLEBench`
+  [![Stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)](https://github.com/microsoft/RD-Agent) · `Microsoft Build 2025 Keynote` · `MLEBench leader`
 tags:
   - AI4Research
   - Autonomous Agents
@@ -13,14 +13,14 @@ links:
     url: https://github.com/microsoft/RD-Agent
 ---
 
-🔬 **Role: Core Founding Member & Primary Coder** (two first-author papers)
+🔬 **My role: Core Founding Member & Primary Coder**
 
-Automates the R&D pipeline — from idea generation to experiment verification to result analysis — for data-centric AI in data science and finance scenarios.
+I helped build RD-Agent to automate the full R&D loop for data-driven AI, from idea generation and experiment execution to result analysis and iterative improvement.
 
-**Key Highlights:**
-- 🌟 12,100+ GitHub Stars
+**Why it stands out:**
+- 🌟 One of my most representative open-source projects
 - 🎤 Featured in **Microsoft Build 2025 Global Keynote**
-- 🥇 **#1 on MLEBench** (OpenAI's Kaggle agent benchmark) at release
-- 📄 Two first-author papers as primary coder since project launch
+- 🥇 Publicly highlighted as a leading machine learning engineering agent on **MLE-bench**
+- 📄 Supported two first-author RD-Agent papers in which I served as the primary coder
 
 <!--more-->

@@ -14,7 +14,7 @@ status:
   icon: "🤖"
 role: Assistant Researcher
 bio: |
-  Haotian Chen is an Assistant Researcher at the School of Artificial Intelligence, Shanghai Jiao Tong University, working with Prof. Junchi Yan at RethinkLab. His research goal is to understand and develop AI for automating tasks that require extensive time, effort, and creative thinking. He works on automating data-driven scientific research, contributing to both alleviating the burden on humans and revolutionizing human productivity. His research focuses on Autonomous Agents, Large Language Models, and AI4Research. He received his PhD in Data Science from Fudan University and completed postdoctoral research at Tsinghua University (THUNLP). He was also a research intern at Microsoft Research Asia, where the RD-Agent project he co-developed was featured in the Microsoft Build 2025 Global Keynote.
+  I am an Assistant Researcher at the School of Artificial Intelligence, Shanghai Jiao Tong University, where I work with Prof. Junchi Yan at RethinkLab. I study how to build AI systems that can automate long-horizon, effort-intensive, and creativity-demanding tasks such as research, engineering, and development. My current work focuses on autonomous agents, large language models, and AI4Research. Before joining SJTU, I received my PhD in Data Science from Fudan University and completed postdoctoral research at Tsinghua University (THUNLP). I was also a research intern at Microsoft Research Asia, where I co-developed RD-Agent, a project later featured in the Microsoft Build 2025 global keynote.
 
 affiliations:
   - name: Shanghai Jiao Tong University
@@ -26,8 +26,11 @@ links:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Hytn
+  - icon: brands/org-x
+    url: https://x.com/HytnChen
+    label: X
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=nwU3FhUAAAAJ&hl=zh-CN
+    url: https://scholar.google.com/citations?user=nwU3FhUAAAAJ&hl=en
 
 interests:
   - Autonomous Agents
@@ -43,14 +46,14 @@ education:
     start: 2018-09-01
     end: 2024-06-30
     summary: |
-      School of Computer Science and Technology. Advisor: Prof. Xiangdong Zhou. Research on NLP, data mining and information extraction. Honors: Outstanding Student, Outstanding Graduate, Academic Excellence Scholarship.
-  - degree: BEng in EE
+      School of Computer Science and Technology. Advisor: Prof. Xiangdong Zhou. I worked on NLP, data mining, and information extraction, and received honors including Outstanding Student, Outstanding Graduate, and Academic Excellence Scholarship.
+  - degree: BEng in Electrical Engineering
     institution: Dalian University of Technology
     icon: brands/dut
     start: 2014-09-01
     end: 2018-06-30
     summary: |
-      School of Electrical Engineering. Advisors: Prof. Qianjin Yue, Prof. Mingfeng He. Ranked 1/74 in the program. Provincial Outstanding Graduate.
+      School of Electrical Engineering. Advisors: Prof. Qianjin Yue and Prof. Mingfeng He. I ranked 1/74 in the program and graduated as a Provincial Outstanding Graduate.
 
 experience:
   - role: Assistant Researcher
@@ -58,28 +61,28 @@ experience:
     icon: brands/sjtu
     start: 2026-04-01
     summary: |
-      School of Artificial Intelligence, [RethinkLab](https://thinklab.sjtu.edu.cn/index.html). Advisor: Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/index.html). Research on Autonomous Agents, LLMs, and AI4Research.
+      School of Artificial Intelligence, [RethinkLab](https://thinklab.sjtu.edu.cn/index.html). I work with Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/index.html) on autonomous agents, LLMs, and AI4Research.
   - role: Postdoctoral Researcher
     org: Tsinghua University
     icon: brands/tsinghua
     start: 2024-07-01
     end: 2026-03-31
     summary: |
-      Department of Computer Science and Technology, [THUNLP](https://nlp.csai.tsinghua.edu.cn/). Advisors: Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), Prof. [Maosong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/). Research on Autonomous Agents, LLMs, and Agent Tool Reinforcement Learning. Honors: Tsinghua "Shuimu Scholar" Program.
+      Department of Computer Science and Technology, [THUNLP](https://nlp.csai.tsinghua.edu.cn/). I worked with Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/) and Prof. [Maosong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/) on autonomous agents, LLMs, and tool-use reinforcement learning for agents. Honor: Tsinghua "Shuimu Scholar" Program.
   - role: Research Intern
     org: Microsoft Research Asia
     icon: brands/microsoft
     start: 2023-11-01
     end: 2024-06-30
     summary: |
-      Machine Learning Group. Advisors: Xiao Yang, Jiang Bian. Research on Autonomous Agents and LLMs. Honors: Microsoft "Star of Tomorrow". Core contributor to RD-Agent, featured in Microsoft Build 2025 Global Keynote.
+      Machine Learning Group. I worked with Xiao Yang and Jiang Bian on autonomous agents and LLMs, and served as a core contributor to RD-Agent. Honor: Microsoft "Star of Tomorrow".
   - role: Research Intern
     org: Tsinghua University (IIIS)
     icon: brands/tsinghua
     start: 2021-06-01
     end: 2023-04-30
     summary: |
-      Institute for Interdisciplinary Information Sciences. Advisor: Prof. Yang Yu. Research on LLM safety auditing and AI decision bias analysis.
+      Institute for Interdisciplinary Information Sciences. I worked with Prof. Yang Yu on LLM safety auditing and AI decision-bias analysis.
 
 skills:
   - name: Research
@@ -111,12 +114,12 @@ awards:
   - title: National Postdoctoral Researcher Program (C-tier, PI)
     awarder: Ministry of Human Resources and Social Security
     date: "2025-01-01"
-    summary: "Research on tool learning methods for LLM agents in cross-domain tasks. Budget: 240K CNY."
+    summary: "I lead a project on tool learning methods for LLM agents in cross-domain tasks. Budget: 240K CNY."
     icon: hero/banknotes
   - title: China Postdoctoral Science Foundation General Grant (PI)
     awarder: China Postdoctoral Science Foundation
     date: "2024-11-01"
-    summary: "Grant No. 2024M761689. Knowledge-augmented tool learning for complex problem solving with LLM agents. Budget: 80K CNY."
+    summary: "Grant No. 2024M761689. I lead research on knowledge-augmented tool learning for complex problem solving with LLM agents. Budget: 80K CNY."
     icon: hero/banknotes
   - title: Tsinghua "Shuimu Scholar" Program
     awarder: Tsinghua University
@@ -126,15 +129,15 @@ awards:
   - title: Microsoft "Star of Tomorrow"
     awarder: Microsoft Research Asia
     date: "2024-01-01"
-    summary: Core contributor to RD-Agent featured in Microsoft Build 2025 Global Keynote.
+    summary: I received this honor during my internship at Microsoft Research Asia.
     icon: hero/star
   - title: Outstanding Student & Outstanding Graduate
     awarder: Fudan University
     date: "2024-06-01"
-    summary: Multiple awards for academic excellence during PhD studies (2019-2024).
+    summary: Multiple awards for academic excellence during my PhD studies.
     icon: hero/trophy
   - title: Provincial Outstanding Graduate, Ranked 1/74
     awarder: Dalian University of Technology / Liaoning Province
     date: "2018-06-01"
-    summary: Graduated ranked 1st out of 74 students. Provincial Outstanding Graduate, Lingshui First-Class Scholarship, Math Competition Award.
+    summary: I graduated ranked first out of 74 students in the program.
     icon: hero/trophy

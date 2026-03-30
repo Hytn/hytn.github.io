@@ -1,12 +1,16 @@
-{{ with resources.Get "css/main.css" }}
-  {{ $opts := dict "minify" (not hugo.IsDevelopment) }}
-  {{ with . | css.TailwindCSS $opts }}
-    {{ if hugo.IsDevelopment }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}">
-    {{ else }}
-      {{ with . | fingerprint }}
-        <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
-      {{ end }}
-    {{ end }}
-  {{ end }}
-{{ end }}
+{{/* Override to avoid deferred-template panic from older Tailwind/minify pipeline combinations. */}}
+{{- $css := resources.Get "css/main.css" -}}
+{{- if not $css -}}
+  {{- $css = resources.Get "scss/main.scss" | css.Sass -}}
+{{- end -}}
+{{- if $css -}}
+  {{- if hugo.IsDevelopment -}}
+    {{- with css.TailwindCSS (dict "inlineImports" true) $css -}}
+<link rel="stylesheet" href="{{ .RelPermalink }}">
+    {{- end -}}
+  {{- else -}}
+    {{- with css.TailwindCSS (dict "inlineImports" true "minify" true) $css | fingerprint -}}
+<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
