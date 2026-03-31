@@ -14,7 +14,7 @@ status:
   icon: "🤖"
 role: Assistant Researcher
 bio: |
-  I am an Assistant Researcher at the School of Artificial Intelligence, Shanghai Jiao Tong University, where I work with Prof. Junchi Yan at RethinkLab. I study how to build AI systems that can automate long-horizon, effort-intensive, and creativity-demanding tasks such as research, engineering, and development. My current work focuses on autonomous agents, large language models, and AI4Research. Before joining SJTU, I received my PhD in Data Science from Fudan University and completed postdoctoral research at Tsinghua University (THUNLP). I was also a research intern at Microsoft Research Asia, where I co-developed RD-Agent, a project later featured in the Microsoft Build 2025 global keynote.
+  I am an Assistant Researcher at the School of Artificial Intelligence, Shanghai Jiao Tong University, where I work with Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/index.html) at [RethinkLab](https://thinklab.sjtu.edu.cn/index.html). I study how to build AI systems that can automate long-horizon, effort-intensive, and creativity-demanding tasks such as research, engineering, and development. My current work focuses on autonomous agents, large language models, and AI4Research. Before joining SJTU, I received my PhD in Data Science from Fudan University and completed postdoctoral research at Tsinghua University ([THUNLP](https://nlp.csai.tsinghua.edu.cn/)), working with Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/) and Prof. [Maosong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/). I was also a research intern at the [Machine Learning Research Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/?lang=zh-cn) of Microsoft Research Asia, mentored by [Xiao Yang](https://github.com/you-n-g).
 
 affiliations:
   - name: Shanghai Jiao Tong University
@@ -75,14 +75,14 @@ experience:
     start: 2023-11-01
     end: 2024-06-30
     summary: |
-      Machine Learning Group. I worked with Xiao Yang and Jiang Bian on autonomous agents and LLMs, and served as a core contributor to RD-Agent. Honor: Microsoft "Star of Tomorrow".
+      [Machine Learning Research Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/?lang=zh-cn). I worked with [Xiao Yang](https://github.com/you-n-g) and Jiang Bian on autonomous agents and LLMs, and served as a core contributor to RD-Agent. Honor: Microsoft "Star of Tomorrow".
   - role: Research Intern
     org: Tsinghua University (IIIS)
     icon: brands/tsinghua
     start: 2021-06-01
     end: 2023-04-30
     summary: |
-      Institute for Interdisciplinary Information Sciences. I worked with Prof. Yang Yu on LLM safety auditing and AI decision-bias analysis.
+      Institute for Interdisciplinary Information Sciences. I worked with Prof. [Yang Yu](https://scholar.google.com/citations?user=JfA0a04AAAAJ&hl=en) on LLM safety auditing and AI decision-bias analysis.
 
 skills:
   - name: Research
