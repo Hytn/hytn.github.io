@@ -118,7 +118,23 @@ jobs:
         HUGO_BLOX_LICENSE: ${{ secrets.HUGO_BLOX_LICENSE }}
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-        hugo --minify
+        # Retry loop: Hugo 0.159.1 has a non-deterministic templates.Defer panic (bug #13492).
+        # Retrying the build works around it until Hugo 0.160.0 fixes the issue.
+        max_attempts=5
+        for i in $(seq 1 $max_attempts); do
+          echo "=== Build attempt $i of $max_attempts ==="
+          rm -rf public/
+          if hugo --minify; then
+            echo "Build succeeded on attempt $i"
+            break
+          fi
+          if [ $i -eq $max_attempts ]; then
+            echo "Build failed after $max_attempts attempts"
+            exit 1
+          fi
+          echo "Build failed (likely templates.Defer panic), retrying in 3s..."
+          sleep 3
+        done
 
     - name: Generate Pagefind search index (if applicable)
       run: |
