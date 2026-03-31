@@ -61,6 +61,7 @@ sections:
     content:
       title: '📚 全部论文'
       text: ''
+      count: 0
       filters:
         folders:
           - publications

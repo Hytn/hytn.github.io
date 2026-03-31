@@ -61,6 +61,7 @@ sections:
     content:
       title: 📚 All Publications
       text: ''
+      count: 0
       filters:
         folders:
           - publications

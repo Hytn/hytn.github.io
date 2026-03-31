@@ -1,27 +1,44 @@
-/* Enlarge institution logo circles in experience/education timeline */
-#experience .timeline-item-icon,
-.hb-resume .timeline-item-icon,
-.section-experience .timeline-item-icon {
-  width: 5rem;
-  height: 5rem;
+/* ============================================================
+   Enlarge institution logo circles in experience/education timeline
+   Using broad selectors with !important to override theme defaults
+   ============================================================ */
+
+/* Target the circle container holding the icon */
+.timeline-item-icon,
+[class*="timeline"] [class*="icon"],
+#experience [class*="icon"],
+.hb-resume [class*="icon"],
+[data-hb-blox="resume-experience"] [class*="icon"] {
+  width: 5rem !important;
+  height: 5rem !important;
+  min-width: 5rem !important;
+  min-height: 5rem !important;
 }
 
-#experience .timeline-item-icon svg,
-#experience .timeline-item-icon img,
-.hb-resume .timeline-item-icon svg,
-.hb-resume .timeline-item-icon img,
-.section-experience .timeline-item-icon svg,
-.section-experience .timeline-item-icon img {
-  width: 3.75rem;
-  height: 3.75rem;
-  max-width: 3.75rem;
-  max-height: 3.75rem;
+/* Target the SVG/image inside the icon container */
+.timeline-item-icon svg,
+.timeline-item-icon img,
+[class*="timeline"] [class*="icon"] svg,
+[class*="timeline"] [class*="icon"] img,
+#experience [class*="icon"] svg,
+#experience [class*="icon"] img,
+.hb-resume [class*="icon"] svg,
+.hb-resume [class*="icon"] img,
+[data-hb-blox="resume-experience"] [class*="icon"] svg,
+[data-hb-blox="resume-experience"] [class*="icon"] img {
+  width: 3.75rem !important;
+  height: 3.75rem !important;
+  max-width: 3.75rem !important;
+  max-height: 3.75rem !important;
 }
 
-/* Bold the profile owner's name (Haotian Chen) in publication lists */
+/* ============================================================
+   Bold the profile owner's name (Haotian Chen) in publication lists
+   ============================================================ */
 .author-highlighted,
 a[href*="/author/"] .author-highlighted,
 .highlight-author-name,
-span.author-highlighted {
-  font-weight: 700;
+span.author-highlighted,
+a.author-highlighted {
+  font-weight: 700 !important;
 }
