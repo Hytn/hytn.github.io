@@ -59,14 +59,14 @@ experience:
   - role: Assistant Researcher
     org: Shanghai Jiao Tong University
     icon: brands/sjtu
-    start: 2026-04-01
+    start: 2026-05-01
     summary: |
       School of Artificial Intelligence, [RethinkLab](https://thinklab.sjtu.edu.cn/index.html). I work with Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/index.html) on autonomous agents, LLMs, and AI4Research.
   - role: Postdoctoral Researcher
     org: Tsinghua University
     icon: brands/tsinghua
     start: 2024-07-01
-    end: 2026-03-31
+    end: 2026-04-30
     summary: |
       Department of Computer Science and Technology, [THUNLP](https://nlp.csai.tsinghua.edu.cn/). I worked with Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/) and Prof. [Maosong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/) on autonomous agents, LLMs, and tool-use reinforcement learning for agents. Honor: Tsinghua "Shuimu Scholar" Program.
   - role: Research Intern

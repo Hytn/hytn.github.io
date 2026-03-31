@@ -2,7 +2,6 @@
 title: 'MiniCPM4: Ultra-Efficient LLMs on End Devices'
 authors:
   - MiniCPM Team
-  - me
   - et al.
 date: '2025-06-01T00:00:00Z'
 publishDate: '2025-06-01T00:00:00Z'

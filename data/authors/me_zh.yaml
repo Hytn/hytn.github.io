@@ -59,14 +59,14 @@ experience:
   - role: 助理研究员
     org: 上海交通大学
     icon: brands/sjtu
-    start: 2026-04-01
+    start: 2026-05-01
     summary: |
       人工智能学院，[RethinkLab](https://thinklab.sjtu.edu.cn/index.html)。我与 [严骏驰](https://thinklab.sjtu.edu.cn/index.html) 教授合作，研究自主智能体、大语言模型与 AI4Research。
   - role: 博士后研究员
     org: 清华大学
     icon: brands/tsinghua
     start: 2024-07-01
-    end: 2026-03-31
+    end: 2026-04-30
     summary: |
       计算机科学与技术系，[THUNLP](https://nlp.csai.tsinghua.edu.cn/)。我与 [刘知远](https://nlp.csai.tsinghua.edu.cn/~lzy/) 教授、[孙茂松](https://nlp.csai.tsinghua.edu.cn/staff/sms/) 教授合作，研究自主智能体、大语言模型与智能体工具强化学习。荣誉：清华大学“水木学者”计划。
   - role: 科研实习生
