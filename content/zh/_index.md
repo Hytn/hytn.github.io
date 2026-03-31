@@ -73,6 +73,7 @@ sections:
       title: '💻 开源项目'
       text: |-
         我的开源工作围绕 **LLM 驱动的智能体** 形成了较完整的生态链：**数据**（AgentCPM-GUI, ToolLLM）→ **算法**（AgentRL, AgentCPM-Explore, MiniCPM4-MCP）→ **执行**（RD-Agent, XAgent）→ **评测**（ToLeaP）→ **应用**（QingXiaoDa）。
+      count: 0
       filters:
         folders:
           - projects

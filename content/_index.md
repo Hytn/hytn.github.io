@@ -73,6 +73,7 @@ sections:
       title: 💻 Open-Source Projects
       text: |-
         All my open-source contributions revolve around the central theme of **LLM-powered agents**, forming a cohesive ecosystem: **Data** (AgentCPM-GUI, ToolLLM) → **Algorithm** (AgentRL, AgentCPM-Explore, MiniCPM4-MCP) → **Execution** (RD-Agent, XAgent) → **Evaluation** (ToLeaP) → **Application** (QingXiaoDa).
+      count: 0
       filters:
         folders:
           - projects
