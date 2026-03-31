@@ -1,35 +1,34 @@
 /* ============================================================
    Enlarge institution logo circles in experience/education timeline
-   Using broad selectors with !important to override theme defaults
+   
+   Hugo Blox renders icon containers as:
+     <div class="flex-shrink-0 w-12 h-12 ... rounded-full ... shadow-md">
+       <svg class="w-6 h-6 ...">
+   
+   Previous CSS used .timeline-item-icon / [class*="timeline"] / #experience
+   etc. which DON'T MATCH these Tailwind utility classes — that's why
+   repeated adjustments had zero visible effect.
+   
+   Fix: target the actual Tailwind class patterns.
    ============================================================ */
 
-/* Target the circle container holding the icon */
-.timeline-item-icon,
-[class*="timeline"] [class*="icon"],
-#experience [class*="icon"],
-.hb-resume [class*="icon"],
-[data-hb-blox="resume-experience"] [class*="icon"] {
-  width: 5rem !important;
-  height: 5rem !important;
-  min-width: 5rem !important;
-  min-height: 5rem !important;
+/* The circle container: make it bigger and clip overflow */
+div[class*="flex-shrink-0"][class*="rounded-full"][class*="shadow-md"] {
+  width: 3.5rem !important;
+  height: 3.5rem !important;
+  min-width: 3.5rem !important;
+  min-height: 3.5rem !important;
+  overflow: hidden !important;
+  padding: 0.15rem !important;
 }
 
-/* Target the SVG/image inside the icon container */
-.timeline-item-icon svg,
-.timeline-item-icon img,
-[class*="timeline"] [class*="icon"] svg,
-[class*="timeline"] [class*="icon"] img,
-#experience [class*="icon"] svg,
-#experience [class*="icon"] img,
-.hb-resume [class*="icon"] svg,
-.hb-resume [class*="icon"] img,
-[data-hb-blox="resume-experience"] [class*="icon"] svg,
-[data-hb-blox="resume-experience"] [class*="icon"] img {
-  width: 3.75rem !important;
-  height: 3.75rem !important;
-  max-width: 3.75rem !important;
-  max-height: 3.75rem !important;
+/* The SVG inside: fill the circle instead of staying at 50% */
+div[class*="flex-shrink-0"][class*="rounded-full"][class*="shadow-md"] > svg {
+  width: 100% !important;
+  height: 100% !important;
+  max-width: none !important;
+  max-height: none !important;
+  border-radius: 9999px !important;
 }
 
 /* ============================================================
