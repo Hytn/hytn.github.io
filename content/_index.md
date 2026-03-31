@@ -72,7 +72,7 @@ sections:
     content:
       title: 💻 Open-Source Projects
       text: |-
-        All my open-source contributions revolve around the central theme of **LLM-powered agents**, forming a cohesive ecosystem: **Data** (AgentCPM-GUI, ToolLLM) → **Algorithm** (AgentRL, AgentCPM-Explore, MiniCPM4-MCP) → **Execution** (RD-Agent, XAgent) → **Evaluation** (ToLeaP) → **Application** (QingXiaoDa).
+        All my open-source contributions revolve around the central theme of **LLM-powered agents**, forming a cohesive ecosystem: **Data** (AgentCPM-GUI) → **Algorithm** (AgentRL, AgentCPM-Explore, MiniCPM4-MCP) → **Execution** (RD-Agent) → **Evaluation** (ToLeaP).
       count: 0
       filters:
         folders:
@@ -105,7 +105,7 @@ sections:
       text: |-
         Feel free to reach out if you would like to discuss research ideas, collaborations, or open-source projects.
 
-        ✉️ **Email:** [htchen@tsinghua.edu.cn](mailto:htchen@tsinghua.edu.cn)
+        ✉️ **Email:** [haotian.chen@163.com](mailto:haotian.chen@163.com) / [ht1ian.chen@gmail.com](mailto:ht1ian.chen@gmail.com)
 
         🐙 **GitHub:** [github.com/Hytn](https://github.com/Hytn)
 

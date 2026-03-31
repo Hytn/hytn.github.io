@@ -17,3 +17,11 @@
   max-width: 3.75rem;
   max-height: 3.75rem;
 }
+
+/* Bold the profile owner's name (Haotian Chen) in publication lists */
+.author-highlighted,
+a[href*="/author/"] .author-highlighted,
+.highlight-author-name,
+span.author-highlighted {
+  font-weight: 700;
+}

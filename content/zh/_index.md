@@ -72,7 +72,7 @@ sections:
     content:
       title: '💻 开源项目'
       text: |-
-        我的开源工作围绕 **LLM 驱动的智能体** 形成了较完整的生态链：**数据**（AgentCPM-GUI, ToolLLM）→ **算法**（AgentRL, AgentCPM-Explore, MiniCPM4-MCP）→ **执行**（RD-Agent, XAgent）→ **评测**（ToLeaP）→ **应用**（QingXiaoDa）。
+        我的开源工作围绕 **LLM 驱动的智能体** 形成了较完整的生态链：**数据**（AgentCPM-GUI）→ **算法**（AgentRL, AgentCPM-Explore, MiniCPM4-MCP）→ **执行**（RD-Agent）→ **评测**（ToLeaP）。
       count: 0
       filters:
         folders:
@@ -105,7 +105,7 @@ sections:
       text: |-
         欢迎就研究问题、合作想法或开源项目与我联系。
 
-        ✉️ **邮箱：** [htchen@tsinghua.edu.cn](mailto:htchen@tsinghua.edu.cn)
+        ✉️ **邮箱：** [haotian.chen@163.com](mailto:haotian.chen@163.com) / [ht1ian.chen@gmail.com](mailto:ht1ian.chen@gmail.com)
 
         🐙 **GitHub：** [github.com/Hytn](https://github.com/Hytn)
 
