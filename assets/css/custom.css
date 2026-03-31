@@ -1,34 +1,46 @@
 /* ============================================================
    Enlarge institution logo circles in experience/education timeline
-   
-   Hugo Blox renders icon containers as:
-     <div class="flex-shrink-0 w-12 h-12 ... rounded-full ... shadow-md">
-       <svg class="w-6 h-6 ...">
-   
-   Previous CSS used .timeline-item-icon / [class*="timeline"] / #experience
-   etc. which DON'T MATCH these Tailwind utility classes — that's why
-   repeated adjustments had zero visible effect.
-   
-   Fix: target the actual Tailwind class patterns.
+
+   Actual DOM structure (from DevTools):
+     <div class="relative w-8 h-8 bg-white ... border-2 border-primary-500
+                 rounded-full flex items-center justify-center ...">
+       <svg class="w-4 h-4 ..." viewBox="0 0 1181 1181">
+         <image href="data:image/png;base64,..." .../>
+       </svg>
+     </div>
+
+   Also the glow/blur sibling:
+     <div class="absolute inset-0 w-8 h-8 bg-primary-500/30 rounded-full
+                 blur-md ...">
    ============================================================ */
 
-/* The circle container: make it bigger and clip overflow */
-div[class*="flex-shrink-0"][class*="rounded-full"][class*="shadow-md"] {
-  width: 3.5rem !important;
-  height: 3.5rem !important;
-  min-width: 3.5rem !important;
-  min-height: 3.5rem !important;
+/* The circle container: enlarge from w-8 h-8 (2rem) → 3rem */
+div[class*="border-primary-500"][class*="rounded-full"] {
+  width: 3rem !important;
+  height: 3rem !important;
+  min-width: 3rem !important;
+  min-height: 3rem !important;
   overflow: hidden !important;
-  padding: 0.15rem !important;
 }
 
-/* The SVG inside: fill the circle instead of staying at 50% */
-div[class*="flex-shrink-0"][class*="rounded-full"][class*="shadow-md"] > svg {
-  width: 100% !important;
-  height: 100% !important;
+/* The blur/glow background behind the circle: match new size */
+div[class*="blur-md"][class*="rounded-full"] {
+  width: 3rem !important;
+  height: 3rem !important;
+}
+
+/* The SVG inside the circle: fill almost the entire circle */
+div[class*="border-primary-500"][class*="rounded-full"] > svg {
+  width: 85% !important;
+  height: 85% !important;
   max-width: none !important;
   max-height: none !important;
-  border-radius: 9999px !important;
+}
+
+/* Make the <image> inside SVG fill properly */
+div[class*="border-primary-500"][class*="rounded-full"] > svg image {
+  width: 100% !important;
+  height: 100% !important;
 }
 
 /* ============================================================

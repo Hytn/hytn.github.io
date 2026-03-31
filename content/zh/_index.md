@@ -13,7 +13,7 @@ sections:
       username: me_zh
       text: ''
       headings:
-        about: ''
+        about: '个人简介'
         education: ''
         interests: ''
     design:
