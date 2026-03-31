@@ -1,46 +1,46 @@
 /* ============================================================
    Enlarge institution logo circles in experience/education timeline
+   AND in the biography education cards.
 
-   Actual DOM structure (from DevTools):
-     <div class="relative w-8 h-8 bg-white ... border-2 border-primary-500
-                 rounded-full flex items-center justify-center ...">
-       <svg class="w-4 h-4 ..." viewBox="0 0 1181 1181">
-         <image href="data:image/png;base64,..." .../>
-       </svg>
-     </div>
-
-   Also the glow/blur sibling:
-     <div class="absolute inset-0 w-8 h-8 bg-primary-500/30 rounded-full
-                 blur-md ...">
+   Strategy:
+   - Use transform:scale() so layout centering is preserved automatically
+     (no need to compensate left/top offsets on the timeline).
+   - Use CSS :has() to precisely target only circles containing SVG icons.
+   - Multiple selectors cover different border-color variants the theme
+     may use for experience vs education sections.
    ============================================================ */
 
-/* The circle container: enlarge from w-8 h-8 (2rem) → 3rem */
-div[class*="border-primary-500"][class*="rounded-full"] {
-  width: 3rem !important;
-  height: 3rem !important;
-  min-width: 3rem !important;
-  min-height: 3rem !important;
+/* ---- 1. Scale up the circle container ---- */
+/* Matches: any round bordered div that directly contains an SVG (= icon) */
+div[class*="rounded-full"][class*="border-2"]:has(> svg) {
+  transform: scale(1.5);
   overflow: hidden !important;
 }
 
-/* The blur/glow background behind the circle: match new size */
-div[class*="blur-md"][class*="rounded-full"] {
-  width: 3rem !important;
-  height: 3rem !important;
+/* Fallback for circles that use border-primary without border-2 */
+div[class*="rounded-full"][class*="border-primary"]:has(> svg) {
+  transform: scale(1.5);
+  overflow: hidden !important;
 }
 
-/* The SVG inside the circle: fill almost the entire circle */
-div[class*="border-primary-500"][class*="rounded-full"] > svg {
+/* ---- 2. Make the SVG fill the circle ---- */
+div[class*="rounded-full"][class*="border-2"] > svg,
+div[class*="rounded-full"][class*="border-primary"] > svg {
   width: 85% !important;
   height: 85% !important;
   max-width: none !important;
   max-height: none !important;
 }
 
-/* Make the <image> inside SVG fill properly */
-div[class*="border-primary-500"][class*="rounded-full"] > svg image {
+/* ---- 3. Ensure <image> inside SVG stretches properly ---- */
+div[class*="rounded-full"] > svg image {
   width: 100% !important;
   height: 100% !important;
+}
+
+/* ---- 4. Scale the glow/blur sibling to match ---- */
+div[class*="blur-md"][class*="rounded-full"] {
+  transform: scale(1.5);
 }
 
 /* ============================================================
