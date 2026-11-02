@@ -1,10 +1,7 @@
 ---
 title: "ToLeaP"
 date: 2026-01-01
-summary: |
-  📏 **项目负责人** · 工具学习智能体一键评测平台
-
-  [![Stars](https://img.shields.io/github/stars/thunlp/ToLeaP?style=social)](https://github.com/thunlp/ToLeaP) · `50+ 基准` · `33 数据集`
+summary: "项目负责人 — 工具学习智能体一键评测平台：50+ 基准、33 个数据集"
 tags:
   - Benchmark
   - Tool Learning
@@ -14,6 +11,8 @@ links:
 ---
 
 📏 **角色：项目负责人**
+
+[![Stars](https://img.shields.io/github/stars/thunlp/ToLeaP?style=social)](https://github.com/thunlp/ToLeaP) · `50+ 基准` · `33 数据集`
 
 面向工具学习智能体的综合一键评测平台。
 

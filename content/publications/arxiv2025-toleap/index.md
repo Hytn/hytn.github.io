@@ -18,13 +18,13 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
   - 'Equal contribution'
-date: '2026-01-01T00:00:00Z'
-publishDate: '2026-01-01T00:00:00Z'
+date: '2025-05-20T00:00:00Z'
+publishDate: '2025-05-20T00:00:00Z'
 publication_types: ['article']
-publication: '*Submitted to ACL 2026*'
-publication_short: '*ACL 2026 (submitted)*'
+publication: '*ArXiv Preprint 2025*'
+publication_short: '*ArXiv 2025*'
 abstract: 'We reproduce 50+ tool-learning evaluation benchmarks, collect 33 training datasets, and build a unified one-click evaluation platform for tool-learning agents.'
-summary: 'Submitted to ACL 2026. First author. Unified evaluation platform for tool-learning agents.'
+summary: 'ArXiv 2025. First author. Unified evaluation platform for tool-learning agents.'
 tags:
   - Tool Learning
   - Benchmark

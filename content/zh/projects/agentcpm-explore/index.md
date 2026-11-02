@@ -1,10 +1,7 @@
 ---
 title: "AgentCPM-Explore"
 date: 2026-03-20
-summary: |
-  🏆 **项目负责人** · 我主导了一个面向长程深度探索的开源 4B 智能体模型
-
-  [![Stars](https://img.shields.io/github/stars/OpenBMB/AgentCPM?style=social)](https://github.com/OpenBMB/AgentCPM)
+summary: "项目负责人 — 面向长程深度探索的开源 4B 智能体模型，在 GAIA、HLE 等基准上领先同尺寸开源模型"
 tags:
   - Autonomous Agents
   - Reinforcement Learning
@@ -14,6 +11,8 @@ links:
 ---
 
 🏆 **我的角色：项目负责人**
+
+[![Stars](https://img.shields.io/github/stars/OpenBMB/AgentCPM?style=social)](https://github.com/OpenBMB/AgentCPM)
 
 我主导了 AgentCPM-Explore 的研发。它是一个面向长程深度探索的 4B 开源智能体，我也参与构建了配套的工具沙箱、训练流程与评测工作流。
 

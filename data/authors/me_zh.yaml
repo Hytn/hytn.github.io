@@ -12,9 +12,9 @@ postnominals:
   - 博士
 status:
   icon: "🤖"
-role: 助理研究员
+role: 助理研究员 · LLM 后训练 / AI4AI
 bio: |
-  我目前在上海交通大学人工智能学院担任助理研究员，在 [RethinkLab](https://thinklab.sjtu.edu.cn/index.html) 与 [严骏驰](https://thinklab.sjtu.edu.cn/index.html) 教授合作开展研究。我关注如何构建能够自动完成科研、工程与开发等长期复杂任务的人工智能系统，当前主要聚焦自主智能体、大语言模型与 AI4Research。在加入上海交大之前，我于复旦大学获得数据科学博士学位（导师：[周向东](https://scholar.google.com/citations?user=QUrLihYAAAAJ&hl=en) 教授），并在清华大学 [THUNLP](https://nlp.csai.tsinghua.edu.cn/) 与 [刘知远](https://nlp.csai.tsinghua.edu.cn/~lzy/) 教授、[孙茂松](https://nlp.csai.tsinghua.edu.cn/staff/sms/) 教授合作开展博士后研究。我也曾在微软亚洲研究院[机器学习组](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/?lang=zh-cn)担任科研实习生，导师为 [杨骁](https://github.com/you-n-g)；在清华大学[交叉信息研究院](https://iiis.tsinghua.edu.cn/)与[于洋](https://scholar.google.com/citations?user=JfA0a04AAAAJ&hl=en)教授合作研究。
+  我目前在上海交通大学人工智能学院担任助理研究员，在 [RethinkLab](https://thinklab.sjtu.edu.cn/index.html) 与 [严骏驰](https://thinklab.sjtu.edu.cn/index.html) 教授合作开展研究。我关注如何构建能够自动完成科研、工程与开发等长期复杂任务的人工智能系统，当前主要聚焦面向自主智能体的大模型后训练、智能体记忆与持续学习，以及 AI4Research / AI4AI。在加入上海交大之前，我于复旦大学获得数据科学博士学位（导师：[周向东](https://scholar.google.com/citations?user=QUrLihYAAAAJ&hl=en) 教授），并在清华大学 [THUNLP](https://nlp.csai.tsinghua.edu.cn/) 与 [刘知远](https://nlp.csai.tsinghua.edu.cn/~lzy/) 教授、[孙茂松](https://nlp.csai.tsinghua.edu.cn/staff/sms/) 教授合作开展博士后研究。我也曾在微软亚洲研究院[机器学习组](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/?lang=zh-cn)担任科研实习生，导师为 [杨骁](https://github.com/you-n-g)；在清华大学[交叉信息研究院](https://iiis.tsinghua.edu.cn/)与[于洋](https://scholar.google.com/citations?user=JfA0a04AAAAJ&hl=en)教授合作研究。
 
 affiliations:
   - name: 上海交通大学
@@ -34,26 +34,26 @@ links:
 
 interests:
   - 自主智能体
-  - 大语言模型
-  - AI4Research
-  - 智能体强化学习
+  - 大模型后训练与智能体强化学习
+  - 智能体记忆与持续学习
+  - AI4Research / AI4AI
   - 工具学习
 
 education:
-  - degree: 数据科学博士
+  - degree: 理学博士（数据科学）
     institution: 复旦大学
     icon: brands/fudan
     start: 2018-09-01
     end: 2024-06-30
     summary: |
       计算机科学技术学院。导师：周向东教授。我主要研究自然语言处理、数据挖掘与信息抽取，获得过复旦大学优秀学生、优秀毕业生、学业优秀奖学金等荣誉。
-  - degree: 工学学士
+  - degree: 工学学士（海洋技术）
     institution: 大连理工大学
     icon: brands/dut
     start: 2014-09-01
     end: 2018-06-30
     summary: |
-      电气工程学院。导师：岳前进教授、贺明峰教授。我在专业中排名第 1/74，并获评辽宁省优秀毕业生。
+      海洋科学与技术学院。导师：岳前进教授、贺明峰教授。我主要研究水下机器人与图像识别，在专业中排名第 1/74，并获评辽宁省优秀毕业生。
 
 experience:
   - role: 助理研究员
@@ -61,21 +61,21 @@ experience:
     icon: brands/sjtu
     start: 2026-05-01
     summary: |
-      人工智能学院，[RethinkLab](https://thinklab.sjtu.edu.cn/index.html)。我与 [严骏驰](https://thinklab.sjtu.edu.cn/index.html) 教授合作，研究自主智能体、大语言模型与 AI4Research。
+      人工智能学院，[RethinkLab](https://thinklab.sjtu.edu.cn/index.html)。我与 [严骏驰](https://thinklab.sjtu.edu.cn/index.html) 教授合作，研究自主智能体、大模型后训练与 AI4Research；主持国家自然科学基金青年科学基金项目（C 类）。
   - role: 博士后研究员
     org: 清华大学
     icon: brands/tsinghua
     start: 2024-07-01
     end: 2026-04-30
     summary: |
-      计算机科学与技术系，[THUNLP](https://nlp.csai.tsinghua.edu.cn/)。我与 [刘知远](https://nlp.csai.tsinghua.edu.cn/~lzy/) 教授、[孙茂松](https://nlp.csai.tsinghua.edu.cn/staff/sms/) 教授合作，研究自主智能体、大语言模型与智能体工具强化学习。荣誉：清华大学“水木学者”计划。
+      计算机科学与技术系，[THUNLP](https://nlp.csai.tsinghua.edu.cn/)。我与 [刘知远](https://nlp.csai.tsinghua.edu.cn/~lzy/) 教授、[孙茂松](https://nlp.csai.tsinghua.edu.cn/staff/sms/) 教授合作，研究自主智能体、大语言模型与智能体工具强化学习。荣誉：清华大学“水木学者”计划、中国博士后科学基金面上资助、国家资助博士后研究人员计划 C 档。
   - role: 科研实习生
     org: 微软亚洲研究院
     icon: brands/msra
     start: 2023-11-01
     end: 2024-06-30
     summary: |
-      [Machine Learning Research Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/?lang=zh-cn)。我与 [杨骁](https://github.com/you-n-g)、Jiang Bian 合作研究自主智能体与大语言模型，并作为核心贡献者参与 RD-Agent。荣誉：微软“明日之星”。
+      [Machine Learning Research Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/?lang=zh-cn)。我与 [杨骁](https://github.com/you-n-g)、Jiang Bian 合作研究自主智能体与大语言模型，并作为初创核心骨干参与 RD-Agent（登上微软 Build 2025 Keynote）。荣誉：微软“明日之星”。
   - role: 科研实习生
     org: 清华大学（交叉信息研究院）
     icon: brands/tsinghua
@@ -111,6 +111,11 @@ languages:
     label: 流利
 
 awards:
+  - title: 国家自然科学基金青年科学基金项目 C 类（主持）
+    awarder: 国家自然科学基金委员会
+    date: "2026-09-01"
+    summary: "《进度感知引导的智能体高效决策研究》，资助金额为 30 万元。"
+    icon: hero/banknotes
   - title: 国家资助博士后研究人员计划 C 档（主持）
     awarder: 人力资源和社会保障部
     date: "2025-01-01"

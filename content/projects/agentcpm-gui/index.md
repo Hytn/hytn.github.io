@@ -1,10 +1,7 @@
 ---
 title: "AgentCPM-GUI"
 date: 2025-08-01
-summary: |
-  📱 **Training Data Lead** · Multimodal LLM-based GUI agent for mobile & desktop
-
-  [![Stars](https://img.shields.io/github/stars/OpenBMB/AgentCPM-GUI?style=social)](https://github.com/OpenBMB/AgentCPM-GUI) · `Trending on HuggingFace`
+summary: "Training Data Lead — multimodal LLM-based GUI agent for mobile and desktop; 1,400+ stars, trending on Hugging Face"
 tags:
   - GUI Agents
   - Multimodal
@@ -14,6 +11,8 @@ links:
 ---
 
 📱 **Role: GUI Agent Training Data Construction Lead**
+
+[![Stars](https://img.shields.io/github/stars/OpenBMB/AgentCPM-GUI?style=social)](https://github.com/OpenBMB/AgentCPM-GUI) · `Trending on HuggingFace`
 
 Multimodal LLM-based GUI agent with visual interface perception, task understanding, and reasoning & planning for autonomous control of mobile and desktop platforms.
 

@@ -1,10 +1,7 @@
 ---
 title: "AgentRL"
 date: 2026-01-01
-summary: |
-  🏆 **Project Lead** · Fully asynchronous agent RL training infrastructure for the AgentCPM model family
-
-  `100+ Tools` · `20+ Benchmarks` · `Full-cycle Visualization`
+summary: "Project Lead — fully asynchronous agent RL training infrastructure for the AgentCPM model family: 100+ tools, 20+ benchmarks, full-cycle visualization"
 tags:
   - Reinforcement Learning
   - Infrastructure
@@ -14,6 +11,8 @@ links:
 ---
 
 🏆 **Role: Project Lead**
+
+`100+ Tools` · `20+ Benchmarks` · `Full-cycle Visualization`
 
 A fully asynchronous training infrastructure for large-scale agent reinforcement learning supporting the AgentCPM model family.
 

@@ -1,10 +1,7 @@
 ---
 title: "ToLeaP"
 date: 2026-01-01
-summary: |
-  📏 **Project Lead** · One-click evaluation platform for tool-learning agents
-
-  [![Stars](https://img.shields.io/github/stars/thunlp/ToLeaP?style=social)](https://github.com/thunlp/ToLeaP) · `50+ Benchmarks` · `33 Datasets`
+summary: "Project Lead — one-click evaluation platform for tool-learning agents: 50+ benchmarks, 33 datasets"
 tags:
   - Benchmark
   - Tool Learning
@@ -14,6 +11,8 @@ links:
 ---
 
 📏 **Role: Project Lead**
+
+[![Stars](https://img.shields.io/github/stars/thunlp/ToLeaP?style=social)](https://github.com/thunlp/ToLeaP) · `50+ Benchmarks` · `33 Datasets`
 
 A comprehensive one-click evaluation platform for tool-learning agents.
 

@@ -1,10 +1,7 @@
 ---
 title: "MiniCPM4-MCP"
 date: 2025-10-01
-summary: |
-  🏆 **Project Lead** · Edge-scale (8B) agent LLM mastering MCP tools
-
-  [![Stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM?style=social)](https://github.com/OpenBMB/MiniCPM) · `5,500+ Downloads`
+summary: "Project Lead — edge-scale (8B) agent LLM mastering MCP tools; surpasses GPT-4o and Qwen3-8B; 5,500+ downloads"
 tags:
   - Tool Learning
   - Autonomous Agents
@@ -14,6 +11,8 @@ links:
 ---
 
 🏆 **Role: Project Lead**
+
+[![Stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM?style=social)](https://github.com/OpenBMB/MiniCPM) · `5,500+ Downloads`
 
 Developed plug-and-play MCP Server configuration environment with tool quality detection, enabling edge-scale (8B) LLM agents to explore, accumulate experience, and evolve.
 

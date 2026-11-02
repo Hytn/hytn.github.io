@@ -17,10 +17,10 @@ author_notes:
 date: '2026-01-01T00:00:00Z'
 publishDate: '2026-01-01T00:00:00Z'
 publication_types: ['article']
-publication: '*Submitted to ACL 2026*'
-publication_short: '*ACL 2026 (submitted)*'
+publication: ''
+publication_short: ''
 abstract: ''
-summary: 'Submitted to ACL 2026. Reflective reinforcement learning for tool learning.'
+summary: 'Reflective reinforcement learning for tool learning.'
 tags:
   - Tool Learning
   - Reinforcement Learning

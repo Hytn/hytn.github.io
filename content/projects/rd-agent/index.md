@@ -1,10 +1,7 @@
 ---
 title: "RD-Agent"
 date: 2026-03-30
-summary: |
-  🔬 **Core Founding Member & Primary Coder** · I helped build an automated R&D agent for data science and finance
-
-  [![Stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)](https://github.com/microsoft/RD-Agent) · `Microsoft Build 2025 Keynote` · `MLEBench leader`
+summary: "Core Founding Member & Primary Coder — automated R&D agent for data science and finance; 15,100+ stars, Microsoft Build 2025 keynote"
 tags:
   - AI4Research
   - Autonomous Agents
@@ -14,6 +11,8 @@ links:
 ---
 
 🔬 **My role: Core Founding Member & Primary Coder**
+
+[![Stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)](https://github.com/microsoft/RD-Agent) · `Microsoft Build 2025 Keynote` · `MLEBench leader`
 
 I helped build RD-Agent to automate the full R&D loop for data-driven AI, from idea generation and experiment execution to result analysis and iterative improvement.
 

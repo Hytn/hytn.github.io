@@ -19,9 +19,9 @@ hugoblox:
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "AI Researcher | Autonomous Agents & LLMs"
+    tagline: "Research Assistant Professor @ SJTU | LLM Post-Training / AI4AI"
     # Site meta description for search engines and social sharing
-    description: "Haotian Chen - AI Researcher specializing in Autonomous Agents, Large Language Models, and AI4Research. Assistant Researcher at Shanghai Jiao Tong University."
+    description: "Haotian Chen - Research Assistant Professor at Shanghai Jiao Tong University working on LLM post-training for autonomous agents, agent memory, and AI4Research / AI4AI; technical advisor at MemTensor; former MiniCPM agent capability lead."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: ""              # Twitter/X handle for Twitter Cards (without @)

@@ -9,7 +9,7 @@ publication_types: ['article']
 publication: '*ArXiv Preprint 2025*'
 publication_short: '*ArXiv 2025*'
 abstract: 'MiniCPM4 is an ultra-efficient LLM designed for end devices, supporting multimodal inputs. Haotian Chen led the MCP agent capabilities of MiniCPM4.'
-summary: 'ArXiv 2025. Team contribution (led MCP agent capabilities). 8,300+ GitHub Stars.'
+summary: 'ArXiv 2025. Team contribution (led MCP agent capabilities). 10,700+ GitHub Stars.'
 tags:
   - Foundation Models
   - Tool Learning

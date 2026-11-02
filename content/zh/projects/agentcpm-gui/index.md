@@ -1,10 +1,7 @@
 ---
 title: "AgentCPM-GUI"
 date: 2025-08-01
-summary: |
-  📱 **训练数据负责人** · 基于多模态大模型的 GUI 智能体，支持手机和桌面
-
-  [![Stars](https://img.shields.io/github/stars/OpenBMB/AgentCPM-GUI?style=social)](https://github.com/OpenBMB/AgentCPM-GUI) · `Trending on HuggingFace`
+summary: "训练数据负责人 — 基于多模态大模型的 GUI 智能体，支持手机和桌面；1,400+ 星标，登上 Hugging Face 热榜"
 tags:
   - GUI Agents
   - Multimodal
@@ -14,6 +11,8 @@ links:
 ---
 
 📱 **角色：GUI 智能体训练数据建设负责人**
+
+[![Stars](https://img.shields.io/github/stars/OpenBMB/AgentCPM-GUI?style=social)](https://github.com/OpenBMB/AgentCPM-GUI) · `Trending on HuggingFace`
 
 基于多模态大语言模型的 GUI 智能体，具备视觉界面感知、任务理解与推理规划能力，可自主操控手机和桌面平台。
 

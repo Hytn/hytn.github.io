@@ -1,10 +1,7 @@
 ---
 title: "RD-Agent"
 date: 2026-03-30
-summary: |
-  🔬 **核心创始成员 & 主要开发者** · 我参与打造了面向数据科学与金融场景的自动化研发智能体
-
-  [![Stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)](https://github.com/microsoft/RD-Agent) · `Microsoft Build 2025 Keynote` · `MLEBench 领先结果`
+summary: "核心创始成员 & 主要开发者 — 面向数据科学与金融场景的自动化研发智能体；15,100+ 星标，登上 Microsoft Build 2025 Keynote"
 tags:
   - AI4Research
   - Autonomous Agents
@@ -14,6 +11,8 @@ links:
 ---
 
 🔬 **我的角色：核心创始成员 & 主要开发者**
+
+[![Stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)](https://github.com/microsoft/RD-Agent) · `Microsoft Build 2025 Keynote` · `MLEBench 领先结果`
 
 我参与打造了 RD-Agent，希望把数据驱动 AI 的研发闭环自动化下来，覆盖从想法生成、实验执行到结果分析和迭代优化的全过程。
 

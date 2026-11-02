@@ -23,7 +23,7 @@ publication_types: ['paper-conference']
 publication: In *EMNLP 2025 Demo*
 publication_short: In *EMNLP 2025 Demo*
 abstract: 'We build a multimodal LLM-based GUI agent with visual interface perception, task understanding, and reasoning & planning for autonomous control of mobile and desktop platforms.'
-summary: 'EMNLP 2025 Demo. GUI agents with reinforcement fine-tuning. 1,200+ GitHub Stars.'
+summary: 'EMNLP 2025 Demo. GUI agents with reinforcement fine-tuning. 1,400+ GitHub Stars.'
 tags:
   - GUI Agents
   - Reinforcement Learning

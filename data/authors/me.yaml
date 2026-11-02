@@ -12,9 +12,9 @@ postnominals:
   - PhD
 status:
   icon: "🤖"
-role: Research Assistant Professor
+role: Research Assistant Professor · LLM Post-Training / AI4AI
 bio: |
-  I am a Research Assistant Professor at the School of Artificial Intelligence, Shanghai Jiao Tong University, where I work with Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/index.html) at [RethinkLab](https://thinklab.sjtu.edu.cn/index.html). I study how to build AI systems that can automate long-horizon, effort-intensive, and creativity-demanding tasks such as research, engineering, and development. My current work focuses on autonomous agents, large language models, and AI4Research. Before joining SJTU, I received my PhD in Data Science from Fudan University, advised by Prof. [Xiangdong Zhou](https://scholar.google.com/citations?user=QUrLihYAAAAJ&hl=en), and completed postdoctoral research at Tsinghua University ([THUNLP](https://nlp.csai.tsinghua.edu.cn/)), working with Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/) and Prof. [Maosong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/). I was also a research intern at the [Machine Learning Research Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/?lang=zh-cn) of Microsoft Research Asia, mentored by [Xiao Yang](https://github.com/you-n-g), and at the Institute for Interdisciplinary Information Sciences ([IIIS](https://iiis.tsinghua.edu.cn/en/)), Tsinghua University, working with Prof. [Yang Yu](https://scholar.google.com/citations?user=JfA0a04AAAAJ&hl=en).
+  I am a Research Assistant Professor at the School of Artificial Intelligence, Shanghai Jiao Tong University, where I work with Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/index.html) at [RethinkLab](https://thinklab.sjtu.edu.cn/index.html). I study how to build AI systems that can automate long-horizon, effort-intensive, and creativity-demanding tasks such as research, engineering, and development. My current work focuses on LLM post-training for autonomous agents, agent memory and continual learning, and AI4Research / AI4AI. Before joining SJTU, I received my PhD in Data Science from Fudan University, advised by Prof. [Xiangdong Zhou](https://scholar.google.com/citations?user=QUrLihYAAAAJ&hl=en), and completed postdoctoral research at Tsinghua University ([THUNLP](https://nlp.csai.tsinghua.edu.cn/)), working with Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/) and Prof. [Maosong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/). I was also a research intern at the [Machine Learning Research Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/?lang=zh-cn) of Microsoft Research Asia, mentored by [Xiao Yang](https://github.com/you-n-g), and at the Institute for Interdisciplinary Information Sciences ([IIIS](https://iiis.tsinghua.edu.cn/en/)), Tsinghua University, working with Prof. [Yang Yu](https://scholar.google.com/citations?user=JfA0a04AAAAJ&hl=en).
 
 affiliations:
   - name: Shanghai Jiao Tong University
@@ -34,9 +34,9 @@ links:
 
 interests:
   - Autonomous Agents
-  - Large Language Models
-  - AI4Research
-  - Agent Reinforcement Learning
+  - LLM Post-Training & Agentic RL
+  - Agent Memory & Continual Learning
+  - AI4Research / AI4AI
   - Tool Learning
 
 education:
@@ -47,13 +47,13 @@ education:
     end: 2024-06-30
     summary: |
       School of Computer Science and Technology. Advisor: Prof. Xiangdong Zhou. I worked on NLP, data mining, and information extraction, and received honors including Outstanding Student, Outstanding Graduate, and Academic Excellence Scholarship.
-  - degree: BEng in EE
+  - degree: BEng in Marine Technology
     institution: Dalian University of Technology
     icon: brands/dut
     start: 2014-09-01
     end: 2018-06-30
     summary: |
-      School of Electrical Engineering. Advisors: Prof. Qianjin Yue and Prof. Mingfeng He. I ranked 1/74 in the program and graduated as a Provincial Outstanding Graduate.
+      School of Marine Science and Technology. Advisors: Prof. Qianjin Yue and Prof. Mingfeng He. I worked on underwater robotics and image recognition, ranked 1/74 in the program, and graduated as a Liaoning Province Outstanding Graduate.
 
 experience:
   - role: Research Assistant Professor
@@ -61,21 +61,21 @@ experience:
     icon: brands/sjtu
     start: 2026-05-01
     summary: |
-      School of Artificial Intelligence, [RethinkLab](https://thinklab.sjtu.edu.cn/index.html). I work with Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/index.html) on autonomous agents, LLMs, and AI4Research.
+      School of Artificial Intelligence, [RethinkLab](https://thinklab.sjtu.edu.cn/index.html). I work with Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/index.html) on autonomous agents, LLM post-training, and AI4Research. PI of an NSFC Young Scientists Fund (Category C) project.
   - role: Postdoctoral Researcher
     org: Tsinghua University
     icon: brands/tsinghua
     start: 2024-07-01
     end: 2026-04-30
     summary: |
-      Department of Computer Science and Technology, [THUNLP](https://nlp.csai.tsinghua.edu.cn/). I worked with Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/) and Prof. [Maosong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/) on autonomous agents, LLMs, and tool-use reinforcement learning for agents. Honor: Tsinghua "Shuimu Scholar" Program.
+      Department of Computer Science and Technology, [THUNLP](https://nlp.csai.tsinghua.edu.cn/). I worked with Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/) and Prof. [Maosong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/) on autonomous agents, LLMs, and agentic reinforcement learning for tool use. Honors: Tsinghua "Shuimu Scholar" Program; China Postdoctoral Science Foundation General Grant; National Postdoctoral Researcher Program (Category C).
   - role: Research Intern
     org: Microsoft Research Asia
     icon: brands/msra
     start: 2023-11-01
     end: 2024-06-30
     summary: |
-      [Machine Learning Research Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/?lang=zh-cn). I worked with [Xiao Yang](https://github.com/you-n-g) and Jiang Bian on autonomous agents and LLMs, and served as a core contributor to RD-Agent. Honor: Microsoft "Star of Tomorrow".
+      [Machine Learning Research Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/?lang=zh-cn). I worked with [Xiao Yang](https://github.com/you-n-g) and Jiang Bian on autonomous agents and LLMs, and served as a founding core member of RD-Agent, featured in the Microsoft Build 2025 keynote. Honor: Microsoft "Star of Tomorrow".
   - role: Research Intern
     org: Tsinghua University (IIIS)
     icon: brands/tsinghua
@@ -111,6 +111,11 @@ languages:
     label: Fluent
 
 awards:
+  - title: NSFC Young Scientists Fund, Category C (PI)
+    awarder: National Natural Science Foundation of China
+    date: "2026-09-01"
+    summary: "Research on Efficient Agent Decision-Making Driven by Progress Awareness. Budget: 300K CNY."
+    icon: hero/banknotes
   - title: National Postdoctoral Researcher Program (C-tier, PI)
     awarder: Ministry of Human Resources and Social Security
     date: "2025-01-01"
